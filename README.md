@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ORGANIC one-word domains still available to buy.
 
-This dataset contains 4,861 .ORGANIC one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,265 .ORGANIC one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ORGANIC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=organic-oneword-domains&utm_content=description.top) (4,854) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.ORGANIC one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/organic-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.csv"><b>⬇️ CSV (4.86K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.json"><b>⬇️ JSON (4.86K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.csv"><b>⬇️ CSV (5.27K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.json"><b>⬇️ JSON (5.27K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=organic-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.85K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar   | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | ----------- | ---------------- | ---------------- |
-| aaa.organic        | available | 70       | 38%    | 3      |             |                  |                  |
-| aaron.organic      | available | 88       | 32%    | 5      |             |                  |                  |
-| abactinal.organic  | available | 50       | 1%     | 9      |             |                  |                  |
-| abaft.organic      | available | 43       | 2%     | 5      |             |                  |                  |
-| abandoned.organic  | available | 58       | 7%     | 9      |             |                  |                  |
-| abashed.organic    | available | 60       | 2%     | 7      |             |                  |                  |
-| abasic.organic     | available | 54       | 2%     | 6      |             |                  |                  |
-| abatable.organic   | available | 54       | 1%     | 8      |             |                  |                  |
-| abatic.organic     | available | 54       | 2%     | 6      |             |                  |                  |
-| abaxial.organic    | available | 54       | 2%     | 7      |             |                  |                  |
-| abbatial.organic   | available | 50       | 1%     | 8      |             |                  |                  |
-| abc.organic        | resell    | 102      | 41%    | 3      | Porkbun LLC | 18/11/2021 14:08 | 18/11/2025 14:08 |
-| abdicable.organic  | available | 50       | 1%     | 9      |             |                  |                  |
-| abdominal.organic  | available | 82       | 5%     | 9      |             |                  |                  |
-| abdominous.organic | available | 56       | 1%     | 10     |             |                  |                  |
-| abducens.organic   | available | 54       | 1%     | 8      |             |                  |                  |
-| abducent.organic   | available | 68       | 1%     | 8      |             |                  |                  |
-| abducting.organic  | available | 50       | 1%     | 9      |             |                  |                  |
-| abenaki.organic    | available | 82       | 3%     | 7      |             |                  |                  |
-| aberdonian.organic | available | 68       | 1%     | 10     |             |                  |                  |
-| aberrant.organic   | available | 74       | 7%     | 8      |             |                  |                  |
-| abeyant.organic    | available | 56       | 2%     | 7      |             |                  |                  |
-| abhorrent.organic  | available | 54       | 3%     | 9      |             |                  |                  |
-| abiding.organic    | available | 106      | 5%     | 7      |             |                  |                  |
-| abient.organic     | available | 54       | 1%     | 6      |             |                  |                  |
-| ability.organic    | available | 92       | 18%    | 7      |             |                  |                  |
-| abit.organic       | available | 66       | 16%    | 5      |             |                  |                  |
-| abject.organic     | available | 94       | 8%     | 6      |             |                  |                  |
-| abkhas.organic     | available | 68       | 1%     | 6      |             |                  |                  |
-| abkhasian.organic  | available | 78       | 1%     | 9      |             |                  |                  |
+| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.organic        | available | 70       | 35%    | 3      |           |         |         |
+| aaron.organic      | available | 88       | 28%    | 5      |           |         |         |
+| abactinal.organic  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.organic      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.organic  | available | 58       | 7%     | 9      |           |         |         |
+| abashed.organic    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.organic     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.organic   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.organic     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.organic    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.organic   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.organic  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.organic  | available | 82       | 5%     | 9      |           |         |         |
+| abdominous.organic | available | 56       | 1%     | 10     |           |         |         |
+| abducens.organic   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.organic   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.organic  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.organic    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.organic | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.organic   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.organic    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.organic  | available | 54       | 3%     | 9      |           |         |         |
+| abide.organic      | available | 94       | 15%    | 5      |           |         |         |
+| abiding.organic    | available | 106      | 5%     | 7      |           |         |         |
+| abient.organic     | available | 54       | 1%     | 6      |           |         |         |
+| ability.organic    | available | 92       | 16%    | 7      |           |         |         |
+| abit.organic       | available | 66       | 12%    | 5      |           |         |         |
+| abject.organic     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.organic     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.organic  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/organic-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.csv"><b>⬇️ CSV (4.86K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.json"><b>⬇️ JSON (4.86K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.csv"><b>⬇️ CSV (5.27K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/organic-oneword-domains/blob/main/organic.json"><b>⬇️ JSON (5.27K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=organic-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.85K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.ORGANIC one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
