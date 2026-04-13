@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .organic one-word domains from Uni
 
 **Public extract:** 9,752 rows · **Live catalog:** 9,752 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/organic`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | sex.organic       | available | $19.99    | —             | 80             | 59     | 3      | name.com          |
 | fresh.organic     | resell    | —         | —             | 78             | 99     | 5      | Sav.com, LLC - 18 |
 | good.organic      | premium   | $19.99    | $73.99        | 82             | 56     | 4      | name.com          |
-| alpha.organic     | available | $19.99    | $73.99        | 90             | 54     | 5      | name.com          |
-| link.organic      | resell    | —         | —             | 68             | 99     | 4      | Sav.com, LLC      |
+| alpha.organic     | available | $19.99    | $73.99        | 90             | 53     | 5      | name.com          |
+| home.organic      | resell    | —         | —             | 100            | 62     | 4      | Sav.com, LLC - 29 |
 | blue.organic      | premium   | —         | —             | 92             | 99     | 4      | —                 |
 | fast.organic      | available | $19.99    | $73.99        | 82             | 53     | 4      | name.com          |
-| home.organic      | resell    | —         | —             | 100            | 62     | 4      | Sav.com, LLC - 29 |
+| the.organic       | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC      |
 | boss.organic      | premium   | —         | —             | 76             | 99     | 4      | —                 |
 | clear.organic     | available | $19.99    | $73.99        | 90             | 49     | 5      | name.com          |
-| the.organic       | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC      |
+| live.organic      | resell    | —         | —             | 108            | 56     | 4      | Sav.com, LLC - 5  |
 | audible.organic   | premium   | —         | —             | 112            | 98     | 7      | —                 |
 | big.organic       | available | $19.99    | $73.99        | 88             | 47     | 3      | name.com          |
-| live.organic      | resell    | —         | —             | 108            | 56     | 4      | Sav.com, LLC - 5  |
+| smart.organic     | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC      |
 | sapphire.organic  | premium   | —         | —             | 92             | 98     | 8      | —                 |
 | snap.organic      | available | $19.99    | $73.99        | 90             | 46     | 4      | name.com          |
-| smart.organic     | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC      |
+| bot.organic       | resell    | —         | —             | 98             | 53     | 3      | DNSPod, Inc.      |
 | authentic.organic | premium   | —         | —             | 76             | 98     | 9      | —                 |
 | genius.organic    | available | $19.99    | $73.99        | 98             | 45     | 6      | name.com          |
-| bot.organic       | resell    | —         | —             | 98             | 53     | 3      | DNSPod, Inc.      |
+| business.organic  | resell    | —         | —             | 90             | 53     | 8      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ORGANIC One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ORGANIC One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
