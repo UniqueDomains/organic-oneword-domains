@@ -70,7 +70,7 @@ print(df.head())
 | alpha.organic     | available | $19.99    | $73.99        | 90             | 53     | 5      | name.com          |
 | home.organic      | resell    | —         | —             | 100            | 62     | 4      | Sav.com, LLC - 29 |
 | blue.organic      | premium   | —         | —             | 92             | 99     | 4      | —                 |
-| fast.organic      | available | $19.99    | $73.99        | 82             | 53     | 4      | name.com          |
+| fast.organic      | available | $19.99    | $73.99        | 82             | 52     | 4      | name.com          |
 | the.organic       | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC      |
 | boss.organic      | premium   | —         | —             | 76             | 99     | 4      | —                 |
 | clear.organic     | available | $19.99    | $73.99        | 90             | 49     | 5      | name.com          |
