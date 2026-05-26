@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .organic one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,722 domains · **Median ask:** $19.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/organic`  
 **Best for:** founders, investors, studios
 
@@ -68,16 +68,16 @@ print(df.head())
 | Chanel.organic    | premium   | —         | —             | 80             | 77     | 6      | —                 |
 | jewels.organic    | available | $19.99    | —             | 80             | 15     | 6      | name.com          |
 | forces.organic    | available | $19.99    | —             | 82             | 12     | 6      | name.com          |
-| getup.organic     | available | $19.99    | —             | 82             | 14     | 6      | name.com          |
+| getup.organic     | available | $19.99    | —             | 82             | 15     | 6      | name.com          |
 | playin.organic    | available | $19.99    | —             | 80             | 10     | 7      | name.com          |
 | toneup.organic    | available | $19.99    | —             | 80             | 5      | 7      | name.com          |
-| makeit.organic    | available | $19.99    | —             | 82             | 22     | 7      | name.com          |
+| makeit.organic    | available | $19.99    | —             | 82             | 21     | 7      | name.com          |
 | getlife.organic   | available | $19.99    | —             | 80             | 5      | 8      | name.com          |
 | skills.organic    | available | $19.99    | —             | 58             | 47     | 6      | name.com          |
 | online.organic    | resell    | —         | —             | 70             | 62     | 7      | Sav.com, LLC - 23 |
 | IsleofMan.organic | premium   | —         | —             | 62             | 91     | 11     | —                 |
 | jobs.organic      | available | $19.99    | —             | 79             | 42     | 4      | name.com          |
-| beans.organic     | resell    | —         | —             | 74             | 20     | 5      | DNSPod, Inc.      |
+| beans.organic     | resell    | —         | —             | 74             | 21     | 5      | DNSPod, Inc.      |
 | shortcuts.organic | available | $19.99    | —             | 48             | 41     | 10     | name.com          |
 | fishes.organic    | resell    | —         | —             | 66             | 6      | 6      | DNSPod, Inc.      |
 | Tools.organic     | premium   | —         | —             | 56             | 40     | 5      | —                 |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ORGANIC One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ORGANIC One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
