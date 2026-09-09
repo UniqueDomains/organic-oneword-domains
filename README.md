@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .organic one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,873 domains · **Median ask:** $19.91 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/organic`
 **Best for:** founders, investors, studios
 
@@ -67,8 +67,9 @@ print(df.head())
 | ago.organic   | available | $19.99    | $73.99        | medium         | low    | 3      | name.com                                     |
 | fit.organic   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 13                            |
 | bad.organic   | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| micro.organic | resell    | —         | —             | medium         | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| tea.organic   | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC                                 |
 | bae.organic   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| micro.organic | resell    | —         | —             | medium         | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 | bce.organic   | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
 | bed.organic   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
 | bid.organic   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
@@ -83,7 +84,6 @@ print(df.head())
 | lxv.organic   | available | $19.99    | $73.99        | low            | low    | 3      | name.com                                     |
 | man.organic   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
 | mao.organic   | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| men.organic   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ORGANIC One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ORGANIC One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
