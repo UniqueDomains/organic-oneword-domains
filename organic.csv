@@ -1,12 +1,15 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 a61eb39b-ab58-4845-8c5d-2bdb66d89006,advisors.organic,available,17.99,85.99,medium,low,8,namesilo,,,28/09/2026 17:13
 b1f5049c-7ed5-4032-bcb1-aef8c6ee3d1f,overrated.organic,available,17.99,85.99,medium,low,10,namesilo,,,18/09/2026 11:36
+a0033014-3fe6-4648-a2c5-850ebdb0a431,relaxation.organic,available,17,,high,low,10,unstoppable,,,29/09/2026 12:08
 f47b71b4-14f1-49f7-b06e-389b06977a06,renowned.organic,available,19.99,73.99,high,low,8,name.com,,,11/08/2026 23:18
 1a2d804c-a23f-4ac7-8d2c-d2c9995b935b,diocese.organic,available,17.99,85.99,high,low,7,namesilo,,,23/09/2026 21:58
 d70693b6-b672-4a1c-98ee-bc4f0b2fb107,bagpipe.organic,available,,,high,low,7,,,,21/09/2026 18:26
+88fa41d7-4137-43f1-8d34-e2c5dd66babe,hebei.organic,available,10.81,68.49,high,low,5,porkbun,,,30/09/2026 01:51
 4a7631ce-253a-4b2b-a4e0-acd9084c5f4f,illegal.organic,available,17.99,85.99,high,low,7,namesilo,,,25/09/2026 07:45
 f724c747-effd-4647-8ab2-ec5e6e421ba8,leopard.organic,available,17,,high,low,7,unstoppable,,,28/09/2026 06:09
 188de61a-ac0f-40c4-a7e4-b5f6b753d53c,artichoke.organic,available,17.99,85.99,high,low,9,namesilo,,,20/09/2026 11:12
+342468e4-6a60-4611-bcaa-34727e57058d,serum.organic,available,17.99,85.99,high,low,5,namesilo,,,29/09/2026 06:06
 77a4c6fc-0264-4da5-a5f7-f73504c052cd,bethel.organic,available,17.99,85.99,medium,low,6,namesilo,,,23/09/2026 11:13
 b8a6ca10-482b-4f2c-bfac-20fe128811c8,panadol.organic,available,17.99,85.99,high,low,7,namesilo,,,16/09/2026 23:53
 63f10ff7-cf6a-4d8d-9c66-d1deaa1a06c6,ownerless.organic,available,17.99,85.99,medium,low,9,namesilo,,,04/09/2026 22:18
@@ -15,14 +18,14 @@ e66f96d8-a6d2-4902-8900-70b779d00de4,venushair.organic,available,17.99,85.99,med
 527d67ae-e39b-4793-aaab-8f6f3d361a8e,traces.organic,available,17.99,85.99,medium,low,6,namesilo,,,28/09/2026 08:47
 2e3ab186-c865-4363-8596-90f7e483ccd8,meaningless.organic,available,17,,medium,low,11,unstoppable,,,28/09/2026 15:49
 40b8ab2c-3164-472c-a573-a7630c0c1578,roswell.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 15:16
-c083136f-5b85-400b-acf9-b3bf0046d798,sale.organic,available,19.99,,high,low,4,name.com,,,
+c083136f-5b85-400b-acf9-b3bf0046d798,sale.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 13:09
 4c1d2e04-f7b3-49d9-8e6f-f91623bfc944,sight.organic,available,19.99,,high,low,5,name.com,,,25/09/2026 20:56
 2f645ac4-6a89-4bc9-aa03-49c5bf62651d,cognizant.organic,available,19.99,73.99,high,low,9,name.com,,,08/08/2026 00:13
 0e4ce12a-4d55-473d-a809-ce46c3291596,sculptured.organic,available,19.99,73.99,high,low,10,name.com,,,20/08/2026 18:52
 69a90a12-cdeb-45ab-8801-61f59c5500f2,client.organic,available,17.99,85.99,high,low,6,namesilo,,,19/09/2026 04:09
 83cace04-607d-4f24-9f04-31f3c594c139,qaeda.organic,available,17.99,85.99,medium,low,5,namesilo,,,18/09/2026 00:59
 a779df69-ee24-435f-8570-f72edd597723,prissy.organic,available,,,medium,low,6,,,,04/09/2026 21:22
-34856239-389a-405a-8d10-a311fc1f253e,dice.organic,available,19.99,,high,low,4,name.com,,,
+34856239-389a-405a-8d10-a311fc1f253e,dice.organic,available,17,,high,low,4,unstoppable,,,29/09/2026 14:49
 fec60129-c5a9-4169-9742-b47b2bc0817a,forwards.organic,available,19.99,73.99,high,low,8,name.com,,,18/08/2026 12:49
 ea4bdd89-d38e-4da9-bd01-4e91e0aba8f4,vibrate.organic,available,19.99,,high,low,7,name.com,,,
 451b6c3f-3d4c-4dc4-b137-5c8c6199763d,bootless.organic,available,19.99,73.99,medium,low,8,name.com,,,10/08/2026 19:37
@@ -31,20 +34,22 @@ ea4bdd89-d38e-4da9-bd01-4e91e0aba8f4,vibrate.organic,available,19.99,,high,low,7
 69f5d76d-3361-4f7a-bcc8-74061255ea70,tedious.organic,available,17.99,85.99,medium,low,7,namesilo,,,23/09/2026 00:32
 f96d1990-1bf0-49ef-aba4-8d99eccb268c,scanner.organic,available,17,,high,low,7,unstoppable,,,28/09/2026 18:57
 79f2512e-1847-4dac-a8dd-d9ea1266ed2e,filesize.organic,available,19.99,,medium,low,9,name.com,,,
+b0bc8a84-1861-431f-97ab-da4e73b5551d,weaken.organic,available,17,,high,low,6,unstoppable,,,29/09/2026 18:30
 161188ab-bde1-4a78-87c2-4402ec48a8ec,tattle.organic,available,17.99,85.99,medium,low,6,namesilo,,,23/09/2026 23:36
 a22c9550-e595-40fa-84b8-cb7600ecadb8,architect.organic,available,17.99,85.99,high,low,9,namesilo,,,20/09/2026 02:11
 73522296-695f-4072-b5b4-2a7b7ff0c5a7,documents.organic,available,19.99,,high,low,9,name.com,,,
-65cfe007-bd0e-49f1-9211-e0ba1aaac600,sapphic.organic,available,19.99,73.99,medium,low,7,name.com,,,23/08/2026 00:18
+65cfe007-bd0e-49f1-9211-e0ba1aaac600,sapphic.organic,available,19.99,73.99,high,low,7,name.com,,,23/08/2026 00:18
 72881e71-c4f1-4e03-8d30-d673491ed4ce,fred.organic,available,17.99,85.99,high,low,4,namesilo,,,25/09/2026 11:53
 37bd942e-c10f-4e51-8684-5d0a07c20a91,kinetic.organic,available,19.99,73.99,high,low,7,name.com,,,17/08/2026 06:45
 0c6ae01e-d8ca-4588-b118-ad56c1519270,citrous.organic,available,17.99,85.99,medium,low,7,namesilo,,,25/09/2026 05:54
 1f4bd321-6c9a-4c56-aa3d-1b0f1cd45cda,primo.organic,available,17.99,85.99,high,low,5,namesilo,,,09/09/2026 02:07
 fb4113c2-1f8e-429b-bcb6-9469109d8a9d,animality.organic,available,17.99,85.99,high,low,9,namesilo,,,19/09/2026 08:40
 6bc2b22f-95fa-4fb2-80b9-8f2b968b20c6,nonviolent.organic,available,,,high,low,10,,,,03/09/2026 21:04
-8878d5ed-bd34-4240-8754-c487ef277bda,outcome.organic,available,19.99,,high,low,7,name.com,,,
+9c7255c6-861e-452a-88ae-7fd515fb5730,adjoining.organic,available,17.99,85.99,high,low,9,namesilo,,,30/09/2026 03:23
+8878d5ed-bd34-4240-8754-c487ef277bda,outcome.organic,available,17.99,85.99,high,low,7,namesilo,,,29/09/2026 11:10
 5f065c7c-73f3-4cb2-9e29-52b3e54b35b6,ernest.organic,available,17,,high,low,6,unstoppable,,,28/09/2026 11:52
 d5948a97-48b4-48c7-9595-801f6ffdf5da,biff.organic,available,17.99,85.99,medium,low,4,namesilo,,,23/09/2026 13:51
-4c9a570c-0be3-46a8-9975-88fbdd0b10e4,amiss.organic,available,19.99,73.99,medium,low,5,name.com,,,
+4c9a570c-0be3-46a8-9975-88fbdd0b10e4,amiss.organic,available,19.99,73.99,high,low,5,name.com,,,
 6b9ce781-4ef8-4c1c-8030-b713fef1eb73,relating.organic,available,19.99,,high,low,8,name.com,,,
 56b4fdf2-0301-4dcf-95b3-17b168ad4e3c,rooney.organic,available,17.99,85.99,high,low,6,namesilo,,,27/09/2026 07:48
 1f2ed6d0-b22b-42ac-af43-059a9832feff,below.organic,available,17.99,85.99,high,low,5,namesilo,,,24/09/2026 12:01
@@ -52,7 +57,8 @@ d5948a97-48b4-48c7-9595-801f6ffdf5da,biff.organic,available,17.99,85.99,medium,l
 60c46928-1595-4105-b21a-92ec8b781b70,unco.organic,available,17.99,85.99,medium,low,4,namesilo,,,15/09/2026 23:08
 e549d584-dd5f-4223-aadb-c0621d235fb2,cracking.organic,available,10.81,68.49,high,low,8,porkbun,,,28/09/2026 05:52
 d79ede03-05bc-4cbd-84f4-5339455e0d79,grugru.organic,available,17.99,85.99,medium,low,6,namesilo,,,17/09/2026 03:33
-a718b9f8-adfc-4d79-986a-8a6d18dda312,bedframe.organic,available,17.99,85.99,medium,low,9,namesilo,,,22/09/2026 23:17
+2bdc8dcb-3323-49e1-ad6a-56138d31169f,configuration.organic,available,17,,medium,low,13,unstoppable,,,29/09/2026 10:14
+a718b9f8-adfc-4d79-986a-8a6d18dda312,bedframe.organic,available,17.99,85.99,high,low,9,namesilo,,,22/09/2026 23:17
 7556cbfb-3a5e-44fa-9efd-68d68d15311e,mba.organic,available,17.99,85.99,high,low,3,namesilo,,,25/09/2026 09:16
 92eda63f-8625-4a5b-af21-ddab05c946bb,brainless.organic,available,19.99,73.99,medium,low,9,name.com,,,11/08/2026 01:41
 4233851f-7e0b-4c90-8f04-e091438df338,illogical.organic,available,19.99,73.99,medium,low,9,name.com,,,14/08/2026 11:22
@@ -70,19 +76,22 @@ b3a50e7f-7521-4668-9bc0-12346af07950,taxi.organic,available,17.99,85.99,high,low
 2a5d981f-877b-4cd5-a187-95522b3d8837,bifurcate.organic,available,19.99,73.99,high,low,9,name.com,,,09/08/2026 20:08
 3ae1c284-5e97-4bce-b66f-bba25c2ab082,hicks.organic,available,10.81,68.49,medium,low,5,porkbun,,,28/09/2026 12:48
 6ae4064a-6327-4e76-8733-5fb2b60fc68e,immunized.organic,available,19.99,73.99,medium,low,9,name.com,,,21/08/2026 21:30
+f889085f-bec8-42a7-a08e-84f54c757d4f,deceived.organic,available,17,,low,low,8,unstoppable,,,29/09/2026 23:13
 6f5c3f22-7262-4dd3-8c8e-f70aca1fcb8d,assumed.organic,available,19.99,73.99,medium,low,7,name.com,,,07/08/2026 07:45
 ff4f02aa-cfdf-4ba5-8164-8f1b2ad57747,monetary.organic,available,19.99,,high,low,8,name.com,,,25/09/2026 21:29
-f77b9af1-d4e4-4110-b04d-3e62e4a6fb13,senegalese.organic,available,17.99,85.99,medium,low,10,namesilo,,,10/09/2026 03:43
-fe4980d9-ee22-4b28-828b-89d64ed773bc,tangled.organic,available,17.99,85.99,medium,low,7,namesilo,,,11/09/2026 07:59
+f77b9af1-d4e4-4110-b04d-3e62e4a6fb13,senegalese.organic,available,17.99,85.99,high,low,10,namesilo,,,10/09/2026 03:43
+fe4980d9-ee22-4b28-828b-89d64ed773bc,tangled.organic,available,17.99,85.99,high,low,7,namesilo,,,11/09/2026 07:59
 b4d17e08-48fb-46ef-8988-29d1ceca839b,orbiter.organic,available,17.99,85.99,high,low,7,namesilo,,,09/09/2026 21:35
+75dd095e-a6d6-432b-8890-479fabb39dc3,reminding.organic,available,10.81,68.49,high,low,9,porkbun,,,29/09/2026 21:27
 6556fbe2-c008-47dd-aea0-e801a5821093,walden.organic,available,17.99,85.99,high,low,6,namesilo,,,27/09/2026 08:12
-c6bce0b9-ebcb-4851-b7df-1f5603967f91,purposely.organic,available,17.99,85.99,medium,low,9,namesilo,,,13/09/2026 17:36
+c6bce0b9-ebcb-4851-b7df-1f5603967f91,purposely.organic,available,17.99,85.99,high,low,9,namesilo,,,13/09/2026 17:36
 5d875e2e-435b-4fcd-812f-f3fdd37bc38a,attachment.organic,available,66.2,66.2,high,low,10,cloudflare,,,28/09/2026 18:30
 26b811f3-fefb-4ce2-82ba-939085fdae63,assegai.organic,available,17.99,85.99,medium,low,7,namesilo,,,20/09/2026 15:40
 2ba80aae-6fc9-49f5-817f-5277d1838781,cos.organic,available,,,high,medium,3,,,,24/09/2026 18:26
+f6049f22-9394-4817-8d32-6e5ac1336f9a,adjusting.organic,available,66.2,66.2,high,low,9,cloudflare,,,29/09/2026 14:33
 8a888051-f014-4bad-b09d-a8f63c300371,sulfur.organic,available,17.99,85.99,high,low,6,namesilo,,,20/09/2026 22:28
 ee38a2b7-ade8-457e-ba3a-a4a7491fec4d,asmera.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 14:30
-2a7514db-5348-4a7a-ab3c-e77eee5c3e97,gee.organic,available,19.99,,high,low,3,name.com,,,
+2a7514db-5348-4a7a-ab3c-e77eee5c3e97,gee.organic,available,10.81,68.49,high,low,3,porkbun,,,29/09/2026 20:19
 6eccc496-6687-4ff3-a394-cf32dda87aef,akimbo.organic,available,19.99,73.99,medium,low,6,name.com,,,
 ffaaebf9-9067-461c-9c1f-e51284d3f497,obtained.organic,available,19.99,,medium,low,8,name.com,,,
 99078dff-2806-4cfe-a739-6da7d557670b,planless.organic,available,19.99,73.99,medium,low,8,name.com,,,
@@ -94,20 +103,22 @@ be06f3d6-3608-43ae-8d2a-8c832bdab239,raised.organic,available,17.99,85.99,high,l
 c569ba6a-2f8b-4e1e-a269-1f0e96a33395,oily.organic,available,19.99,73.99,medium,low,4,name.com,,,11/08/2026 11:42
 5ef4d135-4aa0-4862-bab5-80d4bf3d47c8,aim.organic,available,17.99,85.99,high,medium,3,namesilo,,,25/09/2026 10:01
 bcf961ab-9e3e-4a9b-bcb6-9e6652474735,cretaceous.organic,available,19.99,73.99,medium,low,10,name.com,,,13/08/2026 06:22
-ce5d33f3-f68e-483e-9fc2-1e19f480220c,hefty.organic,available,19.99,73.99,medium,low,5,name.com,,,11/08/2026 02:48
+ce5d33f3-f68e-483e-9fc2-1e19f480220c,hefty.organic,available,19.99,73.99,high,low,5,name.com,,,11/08/2026 02:48
 5dcf1086-b9b0-40e3-8059-0cac6b3f1a6c,dawes.organic,available,17.99,85.99,medium,low,5,namesilo,,,28/09/2026 09:30
 f7a88b25-ed03-412e-bef3-d1e6982791e1,parliamentary.organic,available,19.99,,medium,low,13,name.com,,,
+8045ef6f-7c06-4785-9a17-0e815520cfc4,pleaded.organic,available,17.99,85.99,medium,low,7,namesilo,,,29/09/2026 22:56
+56288bfa-8f7a-4a5a-b616-f5b281b7bd64,countdown.organic,available,17.99,85.99,high,low,9,namesilo,,,29/09/2026 11:59
 a7788378-15de-419a-8596-37abbca7f007,phoney.organic,available,19.99,73.99,medium,low,6,name.com,,,08/08/2026 23:14
 50542697-0657-4a28-aaf4-768503ca09dd,relapse.organic,available,17.99,85.99,high,low,7,namesilo,,,27/09/2026 14:29
 52d46b5f-4225-4b25-a0da-ac8c91e1bf59,teresa.organic,available,,,high,low,6,,,,17/09/2026 18:40
 37415cce-a600-4c10-8c53-e7754a266d46,reaching.organic,available,17.99,85.99,high,low,8,namesilo,,,20/09/2026 09:16
 6e6162cd-e6b8-4890-b066-c9e640e9920e,writer.organic,available,17.99,85.99,high,low,6,namesilo,,,21/09/2026 05:09
 548aff61-0fe5-4be6-bfed-6e6cad807c73,apophatic.organic,available,19.99,73.99,medium,low,9,name.com,,,06/08/2026 02:27
-a5b3d7c0-80af-4423-b074-42bcf7bde4f1,doubting.organic,available,19.99,73.99,medium,low,8,name.com,,,14/08/2026 17:01
+a5b3d7c0-80af-4423-b074-42bcf7bde4f1,doubting.organic,available,19.99,73.99,high,low,8,name.com,,,14/08/2026 17:01
 ec518284-3117-4876-9b78-4dad034d94c2,welsh.organic,available,19.99,73.99,high,low,5,name.com,,,11/08/2026 15:44
 62b45503-a3d5-4ed0-b295-dfce129d3fd4,terrifies.organic,available,17.99,85.99,low,low,9,namesilo,,,18/09/2026 07:37
 34ac7daf-83ea-4b53-aede-2a7e090ff573,diet.organic,available,17.99,85.99,high,low,4,namesilo,,,24/09/2026 22:16
-927f3231-4aa0-4b05-aef7-f22cb7bec9d3,choc.organic,available,19.99,,high,low,4,name.com,,,
+927f3231-4aa0-4b05-aef7-f22cb7bec9d3,choc.organic,available,10.81,68.49,high,low,4,porkbun,,,29/09/2026 08:48
 fde1a3f7-7aae-4dc6-b42a-14d027711c0e,compartment.organic,available,17,,high,low,11,unstoppable,,,28/09/2026 03:28
 cefc5fdd-04e1-4684-ae45-ef036d3555f1,procurement.organic,available,17.99,85.99,high,low,11,namesilo,,,28/09/2026 08:19
 e667245c-3092-49c0-a2e6-e90ce8841c76,longlasting.organic,available,19.99,,high,low,12,name.com,,,
@@ -123,15 +134,15 @@ f3261ed5-b1dd-4a23-be9e-f97179077d1e,going.organic,available,17.99,85.99,high,lo
 77c54dd6-ba01-4014-adc5-9ebdb041d920,rustling.organic,available,17.99,85.99,high,low,8,namesilo,,,03/09/2026 11:20
 0b866192-c0e1-4ab2-9c1a-7a04ef3e3d66,insanely.organic,available,17.99,85.99,medium,low,8,namesilo,,,14/09/2026 09:13
 e2666975-c774-4d6e-af59-31b26c811ebe,courts.organic,available,17,,high,low,6,unstoppable,,,28/09/2026 03:42
-64cfd222-d5ce-4c74-906d-649c5280d0e6,cane.organic,available,19.99,,high,low,4,name.com,,,
-fce58364-42f9-4ee2-a737-83e5659d5d80,nathaniel.organic,available,17.99,85.99,medium,low,9,namesilo,,,25/09/2026 14:50
+64cfd222-d5ce-4c74-906d-649c5280d0e6,cane.organic,available,66.2,66.2,high,low,4,cloudflare,,,29/09/2026 06:33
+fce58364-42f9-4ee2-a737-83e5659d5d80,nathaniel.organic,available,17.99,85.99,high,low,9,namesilo,,,25/09/2026 14:50
 31ccf08d-e9a6-4634-b66f-9b2797fbea7e,quiet.organic,available,17.99,85.99,high,low,5,namesilo,,,23/09/2026 12:30
 fc9d5714-81e2-4c19-aa24-623c08eb2607,jamaican.organic,available,19.99,73.99,high,low,8,name.com,,,22/08/2026 12:11
 82ffa7ef-e052-4198-94bd-62595deb9e18,image.organic,available,66.2,66.2,high,medium,5,cloudflare,,,28/09/2026 04:08
 5473807d-5702-4005-9167-b5c322d4aeb3,organizing.organic,available,17.99,85.99,high,low,10,namesilo,,,18/09/2026 13:01
 ddb4ea0d-4509-47c0-b244-f06c9147404a,chambered.organic,available,19.99,73.99,medium,low,9,name.com,,,12/08/2026 01:34
 45f892ba-1864-4bea-a61e-2decaa063bf3,spectacular.organic,available,17.99,85.99,high,low,11,namesilo,,,27/09/2026 17:02
-8c1fd9ee-0d8f-4d3f-baeb-d06942516665,pain.organic,available,19.99,,high,low,4,name.com,,,
+8c1fd9ee-0d8f-4d3f-baeb-d06942516665,pain.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 23:26
 4bd84aba-9d17-4364-83cc-0767e7f112a0,quantity.organic,available,19.99,,high,low,8,name.com,,,
 f2d35ad9-2efc-4634-9b52-279b41a010b9,wily.organic,available,19.99,73.99,medium,low,4,name.com,,,13/08/2026 04:38
 342c5f96-b408-4aa4-b51b-6dcea0982173,sensuous.organic,available,17.99,85.99,high,low,8,namesilo,,,10/09/2026 03:48
@@ -139,7 +150,7 @@ f2d35ad9-2efc-4634-9b52-279b41a010b9,wily.organic,available,19.99,73.99,medium,l
 fa4fca1c-4fae-437a-8b7c-f89e8646921c,calculable.organic,available,19.99,73.99,medium,low,10,name.com,,,11/08/2026 13:54
 9e6398e9-9444-4c14-81d3-c3a7db9ec3a3,gloria.organic,available,17.99,85.99,high,low,6,namesilo,,,27/09/2026 02:39
 8d79b574-1efd-4f3e-8944-3f394381dfbf,prosthetic.organic,available,17.99,85.99,high,low,10,namesilo,,,09/09/2026 03:55
-498961d8-f1c2-4170-9e3e-de72faba1e8c,amperage.organic,available,17.99,85.99,medium,low,8,namesilo,,,18/09/2026 23:07
+498961d8-f1c2-4170-9e3e-de72faba1e8c,amperage.organic,available,17.99,85.99,high,low,8,namesilo,,,18/09/2026 23:07
 e3b300c2-55c8-45a5-a178-586b54b1551e,salon.organic,available,17.99,85.99,high,low,5,namesilo,,,22/09/2026 22:23
 41048c8e-85a4-4de5-b083-df89fba88ae0,catching.organic,available,19.99,73.99,high,low,8,name.com,,,11/08/2026 21:16
 467e6c5c-7ab4-4c09-a74b-8efa322d26e9,reflection.organic,available,17.99,85.99,high,low,10,namesilo,,,25/09/2026 22:24
@@ -149,12 +160,15 @@ f0502b69-709f-4da6-a418-b10e59486145,cochrane.organic,available,17.99,85.99,medi
 e00d685f-66ff-4958-a77c-9e47a99e675f,vowels.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 00:07
 47867c88-4c60-4145-b842-76dce9bcadcb,cob.organic,available,17.99,85.99,high,low,3,namesilo,,,23/09/2026 23:42
 b68cf4bb-1737-4436-9104-57a7046eaf62,abjurer.organic,available,17.99,85.99,medium,low,7,namesilo,,,16/09/2026 16:02
+26e9e1c1-6cc8-4fc0-8539-3e78f42d207c,mosses.organic,available,17.99,85.99,low,low,6,namesilo,,,29/09/2026 05:08
 e580340d-a1e3-4d35-8e9a-5b42f9105c1d,chubby.organic,available,19.99,73.99,high,low,6,name.com,,,12/08/2026 07:31
 fb39f75a-3bf2-49f6-8c95-b8c94902856c,allergen.organic,available,17.99,85.99,high,low,8,namesilo,,,18/09/2026 10:53
 431b96ee-ae4f-44bb-b6b3-de170e646be4,richest.organic,available,10.81,68.49,medium,low,7,porkbun,,,28/09/2026 12:54
 272d65d8-5034-4d7e-9d08-5c0f025fbbd5,bathsheba.organic,available,17.99,85.99,medium,low,9,namesilo,,,22/09/2026 13:52
-3b3f9722-b2a5-4939-a504-46b9d3c44ec8,upset.organic,available,17.99,85.99,medium,low,5,namesilo,,,24/09/2026 11:19
+64ec82a7-5347-48a8-a2cb-f08a625d1ca4,inserted.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 10:49
+3b3f9722-b2a5-4939-a504-46b9d3c44ec8,upset.organic,available,17.99,85.99,high,low,5,namesilo,,,24/09/2026 11:19
 0ba642fc-fdf8-427b-b2cf-bdf61ef0e84d,focused.organic,available,17,73.99,high,low,7,unstoppable,,,28/09/2026 05:57
+a6c491fd-6024-402d-9490-9f323099c1b8,specifics.organic,available,17.99,85.99,medium,low,9,namesilo,,,29/09/2026 17:04
 38a1bec8-d563-4bce-a0ec-add88a0935cb,transexual.organic,available,,,medium,low,10,,,,11/09/2026 19:01
 0cf6c00d-d762-4c5d-8f6d-6681c6800507,wed.organic,available,17.99,85.99,high,low,3,namesilo,,,13/09/2026 09:28
 39678bcf-e24f-495e-abef-8ca5a5b70c4b,acetyl.organic,available,17.99,85.99,medium,low,6,namesilo,,,17/09/2026 00:19
@@ -173,39 +187,44 @@ e46bfac4-e0bb-47b7-80ca-3c61e98de1d3,mourning.organic,available,19.99,73.99,medi
 f52e0d13-0600-4cb7-9b84-dd7b0b374795,telling.organic,available,19.99,73.99,high,low,7,name.com,,,12/08/2026 15:35
 ce79fd33-f754-4a87-a078-4ed3dec66eed,groundless.organic,available,19.99,73.99,medium,low,10,name.com,,,08/08/2026 21:49
 af394145-0702-4e0d-bbf7-2950b02bfa56,thompson.organic,available,17.99,85.99,high,low,8,namesilo,,,23/09/2026 08:26
-16e149cf-f379-4d92-a538-9f0721790ec5,pervert.organic,available,17.99,85.99,medium,low,7,namesilo,,,23/09/2026 23:54
+16e149cf-f379-4d92-a538-9f0721790ec5,pervert.organic,available,17.99,85.99,high,low,7,namesilo,,,23/09/2026 23:54
 f2249389-27ee-44bc-be38-3df605c98be9,caucasian.organic,available,19.99,73.99,high,low,9,name.com,,,11/08/2026 22:16
 441853b5-5f29-4840-84e2-2d48d4c36d5d,atoll.organic,available,17.99,85.99,high,low,5,namesilo,,,20/09/2026 21:52
 e7c253ea-b28d-4319-84b7-833fa08a6615,catholics.organic,available,19.99,,medium,low,9,name.com,,,19/09/2026 20:28
 8a0ba9d5-3e95-4cb7-a6bb-24525f46c781,vicarious.organic,available,17.99,85.99,medium,low,9,namesilo,,,13/09/2026 05:15
 5e83ad86-ca74-41ef-90b5-f7afb5c5c2ee,behavior.organic,available,17.99,85.99,high,low,8,namesilo,,,23/09/2026 03:06
+43536557-ed6e-440d-b74e-e39f742d014d,faults.organic,available,17.99,85.99,medium,low,6,namesilo,,,29/09/2026 11:04
+974223a5-829c-402e-8d00-56c9b4b0d500,pavement.organic,available,17.99,85.99,high,low,8,namesilo,,,29/09/2026 07:50
 f7ea3363-582f-438a-8405-6eb7f2d4a5d6,auntie.organic,available,17.99,85.99,high,low,6,namesilo,,,21/09/2026 04:11
 eb5a8ba1-351b-400a-b83e-749aab6e53df,nrl.organic,available,17.99,85.99,medium,low,3,namesilo,,,28/09/2026 10:31
 bd3002db-4d7c-48a6-9ad9-43402ab27f3f,coin.organic,resell,,,high,medium,4,"Sav.com, LLC - 40",04/09/2025 15:15,04/09/2027 15:15,26/09/2026 05:06
 6f6c275a-de46-423e-911d-93a260d1e298,embassy.organic,available,66.2,66.2,high,low,7,cloudflare,,,28/09/2026 05:36
+8815d21e-5db3-4de6-a62b-c946fc4c17ce,curzon.organic,available,17.99,85.99,medium,low,6,namesilo,,,29/09/2026 22:25
 02c026c9-fcf5-4767-ae1e-8daaa1ab3bc8,geniality.organic,available,17.99,85.99,high,low,9,namesilo,,,17/09/2026 14:00
 040b7eeb-8c81-44a0-9043-46fba2a39ab2,acer.organic,available,17.99,85.99,high,low,4,namesilo,,,16/09/2026 23:32
 8c6d4dbf-7d0a-40d7-998b-a696115081d4,sleeps.organic,available,17,,medium,low,6,unstoppable,,,28/09/2026 13:22
 448aab85-844e-4664-8a76-d1e08fe4908a,road.organic,available,19.99,,high,low,4,name.com,,,
 f8c1caca-eb1d-4359-9165-7c92db93f253,scandal.organic,available,19.99,,high,low,7,name.com,,,
+1daeb10c-f699-4eb3-91e8-e2352ba01979,cornwall.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 06:24
 2309186e-f5df-44b8-a638-5cc7baeac8bc,lifeless.organic,available,19.99,73.99,medium,low,8,name.com,,,17/08/2026 15:52
-c02659d0-2d73-4110-b9c5-2d20148cb502,redemption.organic,available,19.99,,high,low,10,name.com,,,
+c02659d0-2d73-4110-b9c5-2d20148cb502,redemption.organic,available,17.99,85.99,high,low,10,namesilo,,,29/09/2026 05:37
 98ed382f-d7be-4ed5-a5e2-b1217b68f32d,songster.organic,available,17.99,85.99,medium,low,8,namesilo,,,21/09/2026 22:38
 b9a45e0d-d77e-4324-8542-216a647c3ce8,berth.organic,available,17.99,85.99,high,low,5,namesilo,,,23/09/2026 10:13
 24c1d7ed-f6b5-4216-8791-1c1c0ddec5f9,awarding.organic,available,66.2,66.2,high,low,8,cloudflare,,,28/09/2026 23:40
+c0fee135-e408-48fb-91dc-6c83e1400d37,frequencies.organic,available,66.2,66.2,medium,low,11,cloudflare,,,29/09/2026 10:28
 6807572d-d452-4bc7-b884-99ae473112fc,marmoreal.organic,available,19.99,73.99,medium,low,9,name.com,,,24/08/2026 16:12
 e6715682-dc2b-470c-8ba5-12f85fb629e2,bedding.organic,available,17.99,85.99,high,low,7,namesilo,,,22/09/2026 22:50
 86df8dda-5536-4415-99c7-2b15ac53a8cb,convolve.organic,available,19.99,73.99,medium,low,8,name.com,,,13/08/2026 00:01
 41f4b4d4-4c18-49cc-80ab-fbd0919f2075,rustproof.organic,available,,,high,low,9,,,,09/09/2026 20:21
 25d39470-6961-46c7-8686-abdece4e0efc,antibiotic.organic,available,17.99,85.99,high,low,10,namesilo,,,22/09/2026 06:14
 cd167e41-d30c-464a-80c1-5bdd54045928,nubby.organic,available,19.99,73.99,medium,low,5,name.com,,,21/08/2026 11:15
-615ac9df-73f1-479c-bfc4-1c9f31ec783f,backhoe.organic,available,17.99,85.99,medium,low,7,namesilo,,,21/09/2026 15:37
+615ac9df-73f1-479c-bfc4-1c9f31ec783f,backhoe.organic,available,17.99,85.99,high,low,7,namesilo,,,21/09/2026 15:37
 227af995-a750-4a29-9b7a-d2809c4e5942,godfather.organic,available,17.99,85.99,high,low,9,namesilo,,,28/09/2026 14:19
 2b89bdc1-910f-4b11-9c7a-f076b8f25ee5,piffle.organic,available,,,medium,low,6,,,,21/09/2026 21:41
 21b3c33d-8faa-4803-9461-909a379f1d01,unoriginal.organic,available,17.99,85.99,medium,low,10,namesilo,,,12/09/2026 16:21
 051d7984-0192-4f83-9f90-d322fa3c48d4,haggard.organic,available,19.99,73.99,medium,low,7,name.com,,,10/08/2026 18:56
 0922aa94-e802-4dd7-b155-34e6c0f7da2a,kochia.organic,available,17.99,85.99,high,low,6,namesilo,,,22/09/2026 12:18
-1b89578e-f62e-4691-96be-ca2a95319c0c,happiest.organic,available,17.99,85.99,medium,low,8,namesilo,,,18/09/2026 04:16
+1b89578e-f62e-4691-96be-ca2a95319c0c,happiest.organic,available,17.99,85.99,high,low,8,namesilo,,,18/09/2026 04:16
 44ec37fe-aeae-4a7a-b7ab-fefd95a0f573,resigned.organic,available,66.2,66.2,low,low,8,cloudflare,,,28/09/2026 17:54
 861f98fc-c20a-4c2e-8b5e-d799803c1eb3,marooned.organic,available,17.99,85.99,medium,low,8,namesilo,,,25/09/2026 16:58
 c9836cc8-dcc6-49f7-88ca-581a0b2414cd,chordate.organic,available,19.99,73.99,medium,low,8,name.com,,,12/08/2026 07:12
@@ -217,7 +236,7 @@ fbff6f7a-23b3-4732-b743-845d0e636808,shaw.organic,available,17.99,85.99,high,low
 c447eec3-6f0f-42a7-9a3b-ca4a0c88c37b,biopsy.organic,available,,,high,low,6,,,,23/09/2026 18:55
 b55389a5-c6a1-4e70-98ed-9a3ca313baf2,alcott.organic,available,19.99,73.99,high,low,6,name.com,,,18/09/2026 04:10
 770ba98d-3985-43de-a007-04ae543d8005,ecologic.organic,available,19.99,73.99,high,low,8,name.com,,,10/08/2026 02:32
-97f0343e-fd2f-4bf1-8dc5-cfcf32d9b0ac,pail.organic,available,19.99,,high,low,4,name.com,,,
+97f0343e-fd2f-4bf1-8dc5-cfcf32d9b0ac,pail.organic,available,17,,medium,low,4,unstoppable,,,29/09/2026 04:55
 7054fdf5-8e18-4934-a8f5-9d0f9ae5a902,fatefully.organic,available,,,medium,low,9,,,,14/09/2026 17:53
 8133a14d-c279-4d59-951a-f4663a4bac62,unspoilt.organic,available,17.99,85.99,high,low,8,namesilo,,,12/09/2026 07:10
 eba761d3-e044-48bb-b9ed-c34faa90896c,steerable.organic,available,19.99,73.99,medium,low,9,name.com,,,14/08/2026 09:00
@@ -240,9 +259,10 @@ dc0bfcc8-642d-4f14-af75-123ce37ddc86,senefelder.organic,available,17.99,85.99,me
 25ab8720-e2ac-45c3-95e3-ffc5b5abc151,acheta.organic,available,17.99,85.99,medium,low,6,namesilo,,,17/09/2026 00:33
 adf522a1-8bfa-4e38-817c-5e283f4d799f,transylvania.organic,available,66.2,66.2,high,low,12,cloudflare,,,27/09/2026 18:35
 eb1b4145-e6a2-4ccd-a96d-de3e0116af94,instore.organic,available,19.99,,high,low,8,name.com,,,
-7a3faf33-032e-43aa-9a64-ea832362f4ae,ripened.organic,available,,,medium,low,7,,,,09/09/2026 17:55
+7a3faf33-032e-43aa-9a64-ea832362f4ae,ripened.organic,available,,,high,low,7,,,,09/09/2026 17:55
 797774cc-b81b-4902-a120-d8c150409a33,straws.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 08:03
 653a09b9-f536-4f37-9f5a-8d4c3fb5e21b,ascendent.organic,available,19.99,73.99,medium,low,9,name.com,,,
+55f5d740-af80-45a2-be52-2814082b011b,aimed.organic,available,66.2,66.2,high,low,5,cloudflare,,,29/09/2026 10:43
 1a870c98-327d-4ade-98ce-65e72b55cc63,futile.organic,available,17.99,85.99,medium,low,6,namesilo,,,22/09/2026 23:49
 35a98e6a-d35f-4240-b3d3-092f689a4260,allotropic.organic,available,19.99,73.99,medium,low,10,name.com,,,
 e7cd7c88-4aff-417d-96b6-1951c85c0162,acrylamide.organic,available,17.99,85.99,medium,low,10,namesilo,,,17/09/2026 04:00
@@ -252,11 +272,13 @@ f2ba7d1c-8f17-4d9d-900f-010cc649046e,mall.organic,available,19.99,,high,low,4,na
 9284c7ce-5889-4201-ae72-efdc39cc4a00,uncanny.organic,available,19.99,73.99,high,low,7,name.com,,,16/08/2026 02:23
 9e717163-47c4-40e5-be22-d39232f80308,alberta.organic,available,17.99,85.99,high,low,7,namesilo,,,18/09/2026 02:45
 26e5d2d8-f5e4-402d-9d3b-4f694077f503,nomadic.organic,available,19.99,73.99,high,low,7,name.com,,,25/08/2026 02:19
-ff593d29-4360-4f87-ac7c-accee890a294,pectoral.organic,available,17.99,85.99,medium,low,8,namesilo,,,08/09/2026 11:58
+ff593d29-4360-4f87-ac7c-accee890a294,pectoral.organic,available,17.99,85.99,high,low,8,namesilo,,,08/09/2026 11:58
 614590ab-ce0c-47c4-90c9-7c9efce8faa8,freakish.organic,available,19.99,73.99,high,low,8,name.com,,,10/08/2026 09:56
+a4fde9be-b226-4099-ac97-d831f1155fd6,decency.organic,available,17,,high,low,7,unstoppable,,,29/09/2026 06:36
 547796e0-c6bd-449f-9a4f-0d28d0967dcc,rally.organic,available,,,high,medium,5,,,,21/09/2026 19:55
 b9c5bd30-5529-402a-ba30-ead21f3e3b62,cheeky.organic,available,19.99,73.99,high,low,6,name.com,,,11/08/2026 02:26
 3faf73de-15eb-444c-8393-89182a5b0957,revealed.organic,available,19.99,73.99,high,low,8,name.com,,,27/09/2026 22:35
+aa33eff9-a773-46fb-a336-d19ca753391f,princes.organic,available,17.99,85.99,medium,low,7,namesilo,,,29/09/2026 10:59
 422b3f50-e018-4c14-8c14-c5789914df73,inane.organic,available,19.99,73.99,medium,low,5,name.com,,,07/08/2026 02:43
 33e77d1a-c30b-4fa0-ae15-95633d87e49b,assayer.organic,available,17.99,85.99,medium,low,7,namesilo,,,20/09/2026 15:59
 8bd1b083-30e2-4633-978a-e2a0b56edd49,enemies.organic,available,,,medium,low,7,,,,25/09/2026 17:51
@@ -264,18 +286,21 @@ b9c5bd30-5529-402a-ba30-ead21f3e3b62,cheeky.organic,available,19.99,73.99,high,l
 bc7a5435-4890-41d5-9dd6-1bbd6bf1f6a0,finical.organic,available,19.99,73.99,medium,low,7,name.com,,,18/08/2026 04:56
 5a27d8a3-d5dc-42c8-8a67-816f4f035e13,epizoon.organic,available,19.99,73.99,medium,low,7,name.com,,,15/08/2026 00:52
 0e658e99-d936-4ee1-8840-77e9697230b7,macho.organic,available,19.99,73.99,high,low,5,name.com,,,11/08/2026 11:31
+13a3f161-f5ad-451a-a286-9fc6bac1e92c,midwest.organic,available,66.2,66.2,high,low,7,cloudflare,,,29/09/2026 07:37
 4a0537fd-7349-44ff-aeb7-a479e8eb2f9b,bontemps.organic,available,19.99,73.99,high,low,8,name.com,,,20/09/2026 08:07
-dbe8e908-ee15-4d50-8732-29f444f2bc49,diehard.organic,available,17.99,85.99,medium,low,7,namesilo,,,11/09/2026 18:42
+dbe8e908-ee15-4d50-8732-29f444f2bc49,diehard.organic,available,17.99,85.99,high,low,7,namesilo,,,11/09/2026 18:42
 9da173c1-a1ba-49fb-93e9-756fb088c46e,started.organic,available,17.99,85.99,medium,low,7,namesilo,,,18/09/2026 11:27
 e6889b65-b30f-4918-87ce-261e9b93a94b,incased.organic,available,19.99,73.99,high,low,7,name.com,,,11/08/2026 20:08
 bfee1c9a-a158-4b4a-ad56-869bc9bd2f4d,plug.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 00:52
 96570632-43df-4bad-9b1e-2a2201cdae90,permutation.organic,available,19.99,,high,low,11,name.com,,,
-73d1d5ce-bffa-46b4-8b22-4f0cfbc87e1c,copy.organic,available,19.99,,high,low,4,name.com,,,
+73d1d5ce-bffa-46b4-8b22-4f0cfbc87e1c,copy.organic,available,17,,high,low,4,unstoppable,,,29/09/2026 11:34
 d76afafc-7012-4706-9edc-5c7ee09c37e1,amnionic.organic,available,19.99,73.99,medium,low,8,name.com,,,
 a39ac4e5-bd88-4a6a-86e8-1cbb8421a00f,semiotical.organic,available,17.99,85.99,medium,low,10,namesilo,,,10/09/2026 03:15
 ceb1855a-e558-4505-a9c6-71de28b2c0e2,graft.organic,available,19.99,73.99,high,low,5,name.com,,,24/09/2026 10:15
+cf4ab498-009a-4003-8495-a58ebf843efb,chartres.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 11:53
 797ac2eb-1ad4-4e1e-bd15-bd110415c7e0,verdin.organic,available,17.99,85.99,medium,low,6,namesilo,,,21/09/2026 04:27
 a8206cef-e831-4f18-9a51-574abec743d8,flower.organic,available,19.99,73.99,high,low,6,name.com,,,24/09/2026 20:16
+2e4a9603-a469-4b1f-8874-c512099524f1,aca.organic,available,17.99,85.99,high,low,3,namesilo,,,29/09/2026 09:04
 70f612ec-675a-4be2-ae3c-acadddffaa78,til.organic,available,17.99,85.99,high,low,3,namesilo,,,28/09/2026 11:25
 39131f6b-c1fe-4320-b43f-bdf49ea19d02,oaken.organic,available,17.99,85.99,medium,low,5,namesilo,,,03/09/2026 23:26
 1e41cc45-b2f7-4db7-ad54-8b6b75bba7a0,rococo.organic,available,,,high,low,6,,,,09/09/2026 18:12
@@ -286,6 +311,7 @@ a8206cef-e831-4f18-9a51-574abec743d8,flower.organic,available,19.99,73.99,high,l
 579eec69-2f00-4735-87b2-2265432eeed0,abductor.organic,available,17.99,85.99,medium,low,8,namesilo,,,16/09/2026 14:54
 6b31b766-dc6f-4de3-bb0a-6245d111eea2,barish.organic,available,17.99,85.99,medium,low,6,namesilo,,,22/09/2026 06:05
 581492ff-89a7-4e7a-8f60-76b9e6e7b7ef,allegiance.organic,available,19.99,73.99,high,low,10,name.com,,,18/09/2026 10:32
+bd6b800b-1fc8-4658-8808-27887ebcd540,courtenay.organic,available,17.99,85.99,medium,low,9,namesilo,,,29/09/2026 22:46
 e221151d-49b6-43b3-b64f-e20b89f52f07,pierson.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 23:01
 8c36c5b4-d736-46f0-be02-c06a9ceec5f5,chalmers.organic,available,66.2,66.2,medium,low,8,cloudflare,,,27/09/2026 20:38
 7256b7d7-3283-4e15-8d19-4199cb49b4a1,natality.organic,available,,,medium,low,8,,,,23/09/2026 21:04
@@ -316,15 +342,14 @@ abab3a4d-4acf-4c18-b41c-aa417f434b30,dreamfully.organic,available,17.99,85.99,me
 65cf82ce-7df7-4d50-a442-5e4973b08d49,love.organic,resell,,,high,medium,4,Devexpanse Ltd d/b/a Regery.com,02/12/2025 01:46,02/12/2026 01:46,26/09/2026 07:19
 715f9a9a-35ca-4324-8ac3-ae482047ab5f,ina.organic,available,17,,high,low,3,unstoppable,,,28/09/2026 04:04
 a24e8b37-00a6-40ea-94e2-f4cfe1782f9f,bismuth.organic,available,17.99,85.99,high,low,7,namesilo,,,20/09/2026 23:53
-b9e9857f-a209-4630-82a9-668c1a65f817,cali.organic,available,19.99,,high,low,4,name.com,,,
 9ceaa90e-887f-429e-83c4-24487cbcee61,towards.organic,available,19.99,,high,low,7,name.com,,,
 9c9530c4-8809-4412-bb3f-a35e8c2623b1,magazine.organic,available,17.99,85.99,high,low,8,namesilo,,,25/09/2026 04:04
 ecde40bc-aa83-44bb-8ac1-b6399109ae0d,springs.organic,available,66.2,66.2,medium,low,7,cloudflare,,,27/09/2026 23:53
 49ea3008-70cc-4fb2-97de-3f8041697036,dourly.organic,available,17.99,85.99,low,low,6,namesilo,,,14/09/2026 13:56
-f4a02a40-2977-46c6-a62c-3182b1a66997,planetal.organic,available,,,medium,low,8,,,,08/09/2026 20:42
-5b5792db-9334-4afb-99f6-1998f1b9d85d,characters.organic,available,19.99,,medium,low,10,name.com,,,
+f4a02a40-2977-46c6-a62c-3182b1a66997,planetal.organic,available,,,high,low,8,,,,08/09/2026 20:42
+5b5792db-9334-4afb-99f6-1998f1b9d85d,characters.organic,available,19.99,,high,low,10,name.com,,,
 82319bd0-2aa2-4bdb-a864-9d2289ce4a62,freezing.organic,available,17.99,85.99,high,low,8,namesilo,,,25/09/2026 06:10
-f91405b3-6443-4549-8001-44aaf040b8cc,darius.organic,available,17.99,85.99,medium,low,6,namesilo,,,27/09/2026 07:28
+f91405b3-6443-4549-8001-44aaf040b8cc,darius.organic,available,17.99,85.99,high,low,6,namesilo,,,27/09/2026 07:28
 c872b3cb-72e3-4b5e-ae69-5ae9225f20d4,errorless.organic,available,19.99,73.99,high,low,9,name.com,,,17/08/2026 13:01
 ed6a7bd2-5c72-4089-8247-719e6165e1b4,crackpot.organic,available,17.99,85.99,medium,low,8,namesilo,,,10/09/2026 00:10
 cef321e7-5203-487b-acb1-0d73b78985b6,weekends.organic,available,17.99,85.99,high,low,8,namesilo,,,20/09/2026 22:23
@@ -337,42 +362,50 @@ c9e4f12f-e02f-4c50-bab2-b4c37e3fdad3,allure.organic,available,17.99,85.99,high,l
 486c2753-d973-431c-b47c-982a8fd18271,patrick.organic,available,17.99,85.99,high,low,7,namesilo,,,25/09/2026 09:49
 750b4133-061c-4bdb-ab01-e5910972843d,unbound.organic,available,17.99,85.99,high,low,7,namesilo,,,12/09/2026 02:25
 2d1bd1cf-4d62-4f3a-badf-66b54da8f239,donnish.organic,available,19.99,73.99,medium,low,7,name.com,,,14/08/2026 15:53
+b3d0765d-e232-4704-98e6-63dff07eb1d7,nationality.organic,available,17.99,85.99,high,low,11,namesilo,,,29/09/2026 14:17
 020a2ff6-34a0-403e-b51d-f54016ed18fc,adduct.organic,available,17.99,85.99,medium,low,6,namesilo,,,17/09/2026 07:09
 d21a95b4-67a0-4a98-8af4-8bdec47b3ca2,wayfaring.organic,available,17.99,85.99,medium,low,9,namesilo,,,13/09/2026 08:47
 46538217-a403-49ea-bb55-1864426a7141,adjust.organic,available,66.2,66.2,high,low,6,cloudflare,,,28/09/2026 11:09
+9d40b49c-e143-4580-a350-973f83b49d2b,gretchen.organic,available,17,,high,low,8,unstoppable,,,29/09/2026 09:29
 eaeb05aa-7228-4884-a0ca-02f1ca725330,chains.organic,available,10.81,68.49,high,low,6,porkbun,,,27/09/2026 12:26
 82180f7d-255d-4934-821a-d1d30ba7954e,bookable.organic,available,19.99,73.99,medium,low,8,name.com,,,10/08/2026 19:04
 270dbacd-e685-4b24-8db1-26e8f24b75c3,gadget.organic,available,17.99,85.99,high,low,6,namesilo,,,19/09/2026 21:47
+21f6e6bf-6ee1-4e49-bb32-21dbe4f9112d,embraced.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 23:57
 6a5508ae-2e92-4724-90d7-74866a9415a6,philips.organic,available,,,high,medium,7,,,,
+9fdbd6c8-294b-4185-b3e4-b75d4afb9c75,soyuz.organic,available,17.99,85.99,high,low,5,namesilo,,,29/09/2026 15:02
+a63264d4-6c8d-4eb4-b2d6-8ced29a562f8,founding.organic,available,17,,high,low,8,unstoppable,,,29/09/2026 18:56
 62160f74-f666-401b-84ff-08e207538b06,flemish.organic,available,19.99,73.99,high,low,7,name.com,,,18/08/2026 07:56
 fe14c188-d74d-4090-b677-72d51a6261b5,titanic.organic,available,17.99,85.99,high,low,7,namesilo,,,11/09/2026 16:30
-8294629d-a9f8-4ffa-ba95-1bb48d31beb3,oahu.organic,available,17,,medium,low,4,unstoppable,,,28/09/2026 10:38
+8294629d-a9f8-4ffa-ba95-1bb48d31beb3,oahu.organic,available,17,,high,low,4,unstoppable,,,28/09/2026 10:38
 1d9070b2-518f-4c1f-b9e3-d26f3d721cc3,risen.organic,available,17.99,85.99,high,low,5,namesilo,,,27/09/2026 15:29
+61267b52-9989-434f-8973-bba50ee0e90a,manassas.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 22:10
 010d7836-58be-4a89-aa28-3fe0d08720e1,reverently.organic,available,17.99,85.99,medium,low,10,namesilo,,,15/09/2026 23:35
 150046b2-e5c4-4d37-84a5-60fe93452baa,charging.organic,available,10.81,68.49,high,low,8,porkbun,,,28/09/2026 04:40
 7021e23e-f469-4c99-a3c0-c032329be1ea,sheraton.organic,available,,,high,high,8,,,,
 14877fa4-508c-4d67-b682-16d622a74297,borders.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 23:27
-b6c8d46e-d9e2-4299-b72e-9ec9b3d797d1,repel.organic,available,19.99,,high,low,5,name.com,,,
-ddc2eaa8-c1b6-4dff-a267-40a2238bc2cd,shin.organic,available,19.99,,high,low,4,name.com,,,
+75a3392f-a010-44b3-9fd5-a9d1c2fd78ec,flushing.organic,available,17,,medium,low,8,unstoppable,,,29/09/2026 10:01
+b6c8d46e-d9e2-4299-b72e-9ec9b3d797d1,repel.organic,available,66.2,66.2,high,low,5,cloudflare,,,29/09/2026 15:49
+ddc2eaa8-c1b6-4dff-a267-40a2238bc2cd,shin.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 09:47
 ffdca242-9f46-43f1-ab94-6b93bbd80b20,goosey.organic,available,19.99,73.99,medium,low,6,name.com,,,14/08/2026 16:06
-8878f92e-bfc1-4582-a0a6-ad5888b43c68,equable.organic,available,19.99,73.99,medium,low,7,name.com,,,17/08/2026 11:33
+8878f92e-bfc1-4582-a0a6-ad5888b43c68,equable.organic,available,19.99,73.99,high,low,7,name.com,,,17/08/2026 11:33
 317e8d04-0929-4f48-8f06-f5379152a80b,roads.organic,available,19.99,,high,low,5,name.com,,,
 fae2f86a-0869-40c9-b2d6-d6f5320a9538,concert.organic,available,17.99,85.99,high,low,7,namesilo,,,28/09/2026 03:31
 235890f8-530c-4e3c-84c4-e6a4ce6d8dbf,switching.organic,available,17,,high,low,9,unstoppable,,,28/09/2026 06:49
 d91d38a5-19e2-43d1-a02b-207b8017ed50,moon.organic,available,19.99,,high,medium,4,name.com,,,
-68f5f089-10d6-4ac8-90bc-31932e9d7fa6,communication.organic,available,17.99,85.99,high,low,13,namesilo,,,25/09/2026 03:16
+68f5f089-10d6-4ac8-90bc-31932e9d7fa6,communication.organic,available,66.2,66.2,high,low,13,cloudflare,,,29/09/2026 06:08
 8a89154d-7774-40d9-8bf1-0016424cb460,icily.organic,available,17.99,85.99,medium,low,5,namesilo,,,15/09/2026 01:36
 1d4b5974-7a3a-4e86-916f-f62c9fbf3287,vogel.organic,available,66.2,66.2,high,low,5,cloudflare,,,28/09/2026 04:48
 68c8eccd-e637-4c20-81c2-83b014112eb5,consistent.organic,available,19.99,73.99,high,low,10,name.com,,,12/08/2026 16:01
 24fbc94f-4ed6-48cb-93bd-8d639d6086af,myalgic.organic,available,17.99,85.99,medium,low,7,namesilo,,,03/09/2026 11:57
 ca08a7ef-2b48-4b30-a484-ca3bdd32f563,hugely.organic,available,17.99,85.99,medium,low,6,namesilo,,,14/09/2026 15:49
 18bd986f-3250-4b13-8c5a-de45f02aa64f,mesolithic.organic,available,19.99,73.99,medium,low,10,name.com,,,24/08/2026 21:17
-6d456489-ed7e-432a-8d46-c1d2b0e670b8,blackfish.organic,available,17.99,85.99,medium,low,9,namesilo,,,24/09/2026 01:55
+6d456489-ed7e-432a-8d46-c1d2b0e670b8,blackfish.organic,available,17.99,85.99,high,low,9,namesilo,,,24/09/2026 01:55
 4da9ded8-b517-4606-b562-9ba9e90f405f,gimp.organic,available,19.99,73.99,medium,low,4,name.com,,,23/08/2026 13:28
 7ea7909a-3ad6-427a-aa24-9b8fa22ef703,zoological.organic,available,17.99,85.99,high,low,10,namesilo,,,13/09/2026 15:33
 1e3b8bc1-b36c-4c55-b564-c96e22a31bbd,renovation.organic,available,17.99,85.99,high,low,10,namesilo,,,28/09/2026 03:48
 74403fb1-a4d1-4f65-b946-fa299efd8ca1,noodle.organic,available,17.99,85.99,high,low,6,namesilo,,,24/09/2026 06:38
 0a7f6e8a-2d2e-409d-a120-5d00cb0e1a21,fractious.organic,available,19.99,73.99,medium,low,9,name.com,,,18/08/2026 13:53
+84e7ac95-738e-4d86-b4a6-e7a78b13cd9c,extraction.organic,available,17,,high,low,10,unstoppable,,,29/09/2026 06:50
 f709e0a6-e680-4ff4-94e9-0971ddab26e5,higher.organic,available,19.99,,high,low,6,name.com,,,
 e3e2d768-6698-4f23-8f8a-798c124462c6,american.organic,available,17.99,85.99,high,low,8,namesilo,,,22/09/2026 04:09
 bd00da4f-9922-4bb6-bacd-db938e86729e,amounts.organic,available,66.2,66.2,low,low,7,cloudflare,,,28/09/2026 18:09
@@ -382,17 +415,20 @@ cb0d718c-e48d-425b-941b-a36588fc2b30,dietary.organic,available,17.99,85.99,high,
 e4c629c7-cfdc-4e44-8b55-cfe6281b36c5,aromatic.organic,available,17.99,85.99,high,low,8,namesilo,,,22/09/2026 08:02
 de3531d4-1439-417c-a257-8d5a449454f3,available.organic,available,19.99,73.99,high,low,9,name.com,,,22/09/2026 14:22
 d8b9228f-2b0c-489d-828c-ded18ec2f273,chairs.organic,available,19.99,,medium,low,6,name.com,,,17/09/2026 18:32
-c4604280-7ef1-4b81-a0c7-bd8b34a1507b,formalized.organic,available,19.99,73.99,medium,low,10,name.com,,,18/08/2026 12:03
+c4604280-7ef1-4b81-a0c7-bd8b34a1507b,formalized.organic,available,19.99,73.99,high,low,10,name.com,,,18/08/2026 12:03
 1dd6697d-c4a2-4ff4-8626-a6a3dae3ffae,jawed.organic,available,19.99,73.99,medium,low,5,name.com,,,22/08/2026 12:32
 7ebdcc57-608f-41f8-bacd-462eed96b889,offstage.organic,available,19.99,73.99,high,low,8,name.com,,,08/08/2026 06:14
+b9972e89-bcee-49ac-bf26-746e2dd546ba,explored.organic,available,66.2,66.2,medium,low,8,cloudflare,,,29/09/2026 23:24
+46a5579a-f7ea-4863-8097-3e81659920ba,screws.organic,available,17.99,85.99,medium,low,6,namesilo,,,29/09/2026 17:35
 a17665ed-b9ba-4105-bf62-c53577fe483f,blunt.organic,available,17.99,85.99,high,low,5,namesilo,,,22/09/2026 23:15
 3e9e0761-b2d2-4b17-8626-1ea5968174b0,adolescent.organic,available,19.99,73.99,high,low,10,name.com,,,21/09/2026 19:03
 da238572-07c5-4226-954a-6233f58a35bd,centuries.organic,available,17.99,85.99,medium,low,9,namesilo,,,17/09/2026 04:43
 c98ae69c-79ea-432e-b147-f41e7afaa0ee,spell.organic,available,17.99,85.99,high,low,5,namesilo,,,24/09/2026 22:24
+92742bf5-5887-4505-b59f-746b19ab1ed6,distributor.organic,available,17.99,85.99,high,low,11,namesilo,,,29/09/2026 08:54
 301643af-2869-48c4-8a3b-e8b6883117ef,alate.organic,available,19.99,73.99,high,low,5,name.com,,,
 30eb4cd5-bfae-48e7-a297-8d63bce4babf,pasta.organic,available,17,,high,low,5,unstoppable,,,28/09/2026 20:26
 93ab07f3-0e40-44da-ba85-ddb03a89b157,footwear.organic,available,17.99,85.99,high,low,8,namesilo,,,28/09/2026 05:26
-37bbce70-5e5c-4175-b44f-2b843f6aa8ea,legally.organic,available,19.99,73.99,medium,low,7,name.com,,,13/08/2026 19:07
+37bbce70-5e5c-4175-b44f-2b843f6aa8ea,legally.organic,available,19.99,73.99,high,low,7,name.com,,,13/08/2026 19:07
 f7d137a1-9145-4297-8438-a51812f2b01f,shunning.organic,available,17.99,85.99,medium,low,8,namesilo,,,21/09/2026 09:50
 a4171300-2cb0-464e-bbf7-ca1418ba991c,protean.organic,available,17.99,85.99,high,low,7,namesilo,,,09/09/2026 04:06
 f268cb6b-314e-476e-8b74-2e2da8d6eaf3,consumers.organic,available,17.99,85.99,high,low,9,namesilo,,,29/09/2026 02:36
@@ -403,19 +439,20 @@ a8acc14c-1134-4567-9d99-7a81d991212f,sixth.organic,available,19.99,73.99,high,lo
 126b99e9-7a39-4ef6-9193-20bce6c6a716,exercise.organic,available,17.99,85.99,high,low,8,namesilo,,,19/09/2026 09:45
 5695426e-d82f-4d4d-a260-f4cec7c1a1f9,onions.organic,available,19.99,,high,low,6,name.com,,,
 af11cdeb-3113-44fc-88d3-18bf7a4afd32,precedence.organic,available,17.99,85.99,high,low,10,namesilo,,,19/09/2026 12:40
-e9e068b2-fc0f-4053-bfbd-931d37bdffbd,destiny.organic,available,19.99,,high,low,7,name.com,,,
+e9e068b2-fc0f-4053-bfbd-931d37bdffbd,destiny.organic,available,17.99,85.99,high,low,7,namesilo,,,29/09/2026 09:18
 1497c0fb-34e6-4e45-96d2-0266b419ca4d,bitter.organic,available,,,high,low,6,,,,
 76a1eaac-32f7-4aeb-9812-a203f1a273f5,macaulay.organic,available,66.2,66.2,medium,low,8,cloudflare,,,28/09/2026 14:12
-04bcb2b3-c971-4d5e-8a64-94fabb3b123f,handwriting.organic,available,17.99,85.99,medium,low,11,namesilo,,,28/09/2026 12:30
-6d3db820-8a88-4ba0-a689-717d107d0b2a,inundated.organic,available,19.99,73.99,medium,low,9,name.com,,,08/08/2026 00:29
+04bcb2b3-c971-4d5e-8a64-94fabb3b123f,handwriting.organic,available,17.99,85.99,high,low,11,namesilo,,,28/09/2026 12:30
+6d3db820-8a88-4ba0-a689-717d107d0b2a,inundated.organic,available,19.99,73.99,high,low,9,name.com,,,08/08/2026 00:29
 35c28174-1ea0-4309-bab4-33915dd5b22f,earhart.organic,available,,,medium,low,7,,,,18/09/2026 18:17
 bc6f393c-6cae-4be5-a5e7-8f37d9eff4b2,gjo.organic,available,17.99,85.99,medium,low,4,namesilo,,,17/09/2026 05:37
 12a3037f-da98-4391-92e0-6d95adee43cf,aquifer.organic,available,17.99,85.99,high,low,7,namesilo,,,19/09/2026 23:11
 9b6922a1-eebf-44e8-bf8d-22034e70c33c,kickshaw.organic,available,19.99,73.99,medium,low,8,name.com,,,13/08/2026 15:56
 06ad5941-6d91-47a6-a059-081ae9664138,ships.organic,available,17.99,85.99,medium,low,5,namesilo,,,18/09/2026 14:07
 df6a7657-2058-4915-98ca-a82eca51fd11,sise.organic,available,19.99,73.99,medium,low,4,name.com,,,
+1ce43879-0fef-41ef-9490-09c8c04e4121,carlsbad.organic,available,17,,high,low,8,unstoppable,,,29/09/2026 18:13
 e9a686c0-8237-4e4a-8f14-eac4b8e39bad,bleached.organic,available,19.99,73.99,medium,low,8,name.com,,,10/08/2026 13:52
-9ae07a9d-2681-409d-bc29-9e0632304b39,louisa.organic,available,17.99,85.99,medium,low,6,namesilo,,,25/09/2026 14:44
+9ae07a9d-2681-409d-bc29-9e0632304b39,louisa.organic,available,17.99,85.99,high,low,6,namesilo,,,25/09/2026 14:44
 a9b10686-c5c3-44c7-a7d0-aa9750c9dbe8,aegean.organic,available,19.99,73.99,high,low,6,name.com,,,
 5e720c69-2980-4eaa-a7e0-05a8ee192404,nafud.organic,available,17.99,85.99,medium,low,5,namesilo,,,19/09/2026 00:44
 a0021259-9bff-4038-9a4a-57c3a5b402d8,crucify.organic,available,19.99,73.99,medium,low,7,name.com,,,14/08/2026 21:17
@@ -432,20 +469,25 @@ c2f86cce-c288-45a0-bdfb-577e7e2c7aec,confirmation.organic,available,17.99,85.99,
 c5788a8a-9b9f-49cf-81f2-7bdf6ec36aa1,septuple.organic,available,17.99,85.99,medium,low,8,namesilo,,,10/09/2026 04:23
 82168f2a-a39f-40fe-9b5a-04df0330d7ba,adipose.organic,available,19.99,73.99,high,low,7,name.com,,,
 78c31bbf-d5c2-4d36-b2a7-a9a611cb09f6,saws.organic,available,17.99,85.99,medium,low,4,namesilo,,,20/09/2026 09:02
+16ed2354-074c-4678-9e41-e1d9e78f948c,chandler.organic,available,17.99,85.99,high,low,8,namesilo,,,30/09/2026 01:02
 12beda17-7ec3-45d0-b65d-696dccd9e841,avicennia.organic,available,17.99,85.99,medium,low,9,namesilo,,,21/09/2026 09:24
 f44eb94b-5af0-4ca1-b560-5d620b758989,sure.organic,available,19.99,,high,low,4,name.com,,,24/09/2026 21:05
 fd48a47a-c9a4-44bc-a108-ff4564a189bf,dandy.organic,available,19.99,73.99,high,low,5,name.com,,,08/08/2026 12:30
 b2b440d0-608b-4dfd-8a06-fb6a13478312,alga.organic,available,17.99,85.99,high,low,4,namesilo,,,18/09/2026 06:47
 780b5a6f-5d40-4f8e-b6ec-66b21e2dd355,anglophobe.organic,available,17.99,85.99,medium,low,10,namesilo,,,19/09/2026 06:55
+8d5a798e-5eb3-48e5-a839-3447caddcd35,squadron.organic,available,66.2,66.2,high,low,8,cloudflare,,,29/09/2026 08:06
 82cd2c68-8d2a-4139-a194-285eb6932af7,straying.organic,available,17.99,85.99,medium,low,8,namesilo,,,10/09/2026 22:14
 6497ffd6-232a-47a3-8a36-52e8ec048414,unrivaled.organic,available,19.99,73.99,high,low,9,name.com,,,24/08/2026 17:06
 1c53f3c0-ed73-413a-8cbf-29d1b935914f,sbs.organic,available,17.99,85.99,high,low,3,namesilo,,,29/09/2026 03:45
 e2f4be5b-c494-4385-9935-2b1441c1778b,freshly.organic,available,19.99,73.99,high,low,7,name.com,,,18/08/2026 15:18
+aa9264b2-8626-4d89-999d-e779854ef0b5,burglar.organic,available,10.81,68.49,medium,low,7,porkbun,,,30/09/2026 00:56
 4f706bfc-556b-4401-a702-3e4ad36673fd,gustatory.organic,available,19.99,73.99,medium,low,9,name.com,,,20/08/2026 21:07
-3e9b64de-8d7b-4d64-aaf4-ea4ab1b5f80c,applique.organic,available,17.99,85.99,medium,low,8,namesilo,,,19/09/2026 21:57
+3e9b64de-8d7b-4d64-aaf4-ea4ab1b5f80c,applique.organic,available,17.99,85.99,high,low,8,namesilo,,,19/09/2026 21:57
+4b6ac269-e805-4281-9b36-b861e2926d5f,motherhood.organic,available,10.81,68.49,high,low,10,porkbun,,,29/09/2026 19:42
 cd877785-11e4-4cca-a2a1-d06fb045a3d7,circumstances.organic,available,17.99,85.99,medium,low,13,namesilo,,,27/09/2026 02:27
 2b11ac73-b546-486f-8a9b-7d9bb28c27d6,lustful.organic,available,19.99,73.99,medium,low,7,name.com,,,12/08/2026 20:18
 f776432f-5067-4790-bd29-733ae6ca40d3,allspice.organic,available,17.99,85.99,high,low,8,namesilo,,,18/09/2026 12:10
+cd775efb-f172-4eae-b678-059714098570,fireman.organic,available,17.99,85.99,high,low,7,namesilo,,,29/09/2026 06:56
 65cd47bb-d7e7-4165-9261-9b556690f4b3,seductive.organic,available,17.99,85.99,high,low,9,namesilo,,,10/09/2026 01:39
 a36d7561-d9f3-4cea-b560-420db129526c,trout.organic,available,17.99,85.99,high,low,5,namesilo,,,28/09/2026 06:50
 78c42233-edf0-4988-bf69-070fcc845f83,vespucci.organic,available,19.99,73.99,high,low,8,name.com,,,18/09/2026 21:04
@@ -453,10 +495,13 @@ a36d7561-d9f3-4cea-b560-420db129526c,trout.organic,available,17.99,85.99,high,lo
 346650ab-7dba-440f-8535-ca5e4face670,advise.organic,available,17.99,85.99,high,low,6,namesilo,,,27/09/2026 03:36
 6189b6b7-4f32-450b-b484-f6e9242119c0,pealing.organic,available,17.99,85.99,medium,low,7,namesilo,,,19/09/2026 11:12
 91cba04f-32cf-48e1-bbdc-ec46dd983369,finals.organic,available,17.99,85.99,high,low,6,namesilo,,,18/09/2026 22:07
+773ea4d8-91d0-42a0-a515-c36fa1c60a41,troy.organic,available,17,,high,low,4,unstoppable,,,29/09/2026 19:15
 2ee1a42e-ce93-43fd-95f9-3c14154ad7fd,discounter.organic,available,66.2,66.2,high,low,10,cloudflare,,,28/09/2026 02:50
-3c9d4750-12c5-4aaf-9557-97f081db2a89,norseman.organic,available,17.99,85.99,medium,low,8,namesilo,,,03/09/2026 21:43
+3c9d4750-12c5-4aaf-9557-97f081db2a89,norseman.organic,available,17.99,85.99,high,low,8,namesilo,,,03/09/2026 21:43
 879354e5-7497-4bac-8222-7c7ca4494416,retard.organic,available,19.99,73.99,high,low,6,name.com,,,21/08/2026 20:33
+26e42e4a-c05d-45ad-885c-1f51a7653f47,width.organic,available,10.81,68.49,high,low,5,porkbun,,,30/09/2026 03:06
 9a885e84-60d0-4072-9292-e97bae4b4e7c,spastic.organic,available,19.99,73.99,medium,low,7,name.com,,,13/08/2026 00:06
+731663b1-4cc1-4016-a441-173536018b78,mph.organic,available,17.99,85.99,high,low,3,namesilo,,,30/09/2026 02:18
 678c6a5a-f972-4ebd-a59c-3e252f2d8380,jordanian.organic,available,19.99,73.99,high,low,9,name.com,,,22/08/2026 14:01
 fcc91f7c-9839-4b64-81ab-866e5e288f75,combustion.organic,available,19.99,73.99,high,low,10,name.com,,,11/08/2026 10:57
 6a490bd0-7419-4ee1-bd30-756f022a29b3,blowzy.organic,available,19.99,73.99,low,low,6,name.com,,,10/08/2026 15:41
@@ -465,7 +510,7 @@ fcc91f7c-9839-4b64-81ab-866e5e288f75,combustion.organic,available,19.99,73.99,hi
 1a9dec9c-5589-4562-aa69-4e560536cc3b,mechanic.organic,available,17.99,85.99,high,low,8,namesilo,,,25/09/2026 18:40
 9106bf61-137e-4386-9040-02272a8a5b8a,bitewing.organic,available,17.99,85.99,medium,low,8,namesilo,,,23/09/2026 22:28
 0c52de01-f9ec-486e-ae89-a1c0ebedc89c,hottish.organic,available,19.99,73.99,medium,low,7,name.com,,,21/08/2026 14:20
-3d9b8a62-0014-4cf5-b257-3635ea0f502e,israelite.organic,available,17.99,85.99,medium,low,9,namesilo,,,29/09/2026 01:21
+3d9b8a62-0014-4cf5-b257-3635ea0f502e,israelite.organic,available,17.99,85.99,high,low,9,namesilo,,,29/09/2026 01:21
 12f5ad91-47d4-4c6d-8424-ddebe7a01bdc,allegro.organic,available,17.99,85.99,high,low,7,namesilo,,,22/09/2026 01:21
 1a25cfa4-b9f0-402d-850b-abb0cfeec4fe,correlate.organic,available,17.99,85.99,high,low,9,namesilo,,,23/09/2026 23:49
 37df1486-519f-4a16-80c6-d5c3df96734e,lxxi.organic,available,19.99,73.99,medium,low,4,name.com,,,
@@ -479,7 +524,7 @@ fd3c3c84-798b-4764-93bf-57b051f0a1f0,aberdeen.organic,available,17.99,85.99,high
 6a1d8229-ff64-47ec-a918-e86b5a29ea90,terrell.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 12:22
 84d2edae-eb43-4f5e-9f5f-59416699a159,buckingham.organic,available,17.99,85.99,high,low,10,namesilo,,,25/09/2026 12:25
 1c06541d-4449-4156-942c-7fbc4510ab3b,sepaline.organic,available,17.99,85.99,medium,low,8,namesilo,,,10/09/2026 03:55
-33f50542-8c99-440a-a1d3-777857c80064,doctor.organic,resell,,,high,low,6,"Sav.com, LLC - 28",01/09/2025 15:15,01/09/2027 15:15,26/09/2026 05:37
+33f50542-8c99-440a-a1d3-777857c80064,doctor.organic,resell,,,high,low,6,"Sav.com, LLC - 28",01/09/2025 15:15,01/09/2027 15:15,29/09/2026 05:29
 683f25c2-b0ca-485a-93d5-a22ce425398f,hamlet.organic,available,66.2,66.2,high,low,6,cloudflare,,,28/09/2026 18:50
 a2e9081c-1b8c-4dd2-8f91-b576e6a6242a,metacarpal.organic,available,19.99,73.99,medium,low,10,name.com,,,24/08/2026 21:30
 f2d26afb-9608-4ed4-895f-ee7c44da1bc2,achilles.organic,available,17.99,85.99,high,low,8,namesilo,,,17/09/2026 00:40
@@ -487,18 +532,21 @@ f2d26afb-9608-4ed4-895f-ee7c44da1bc2,achilles.organic,available,17.99,85.99,high
 4c70ee38-d79d-4fa6-8215-eea501f86f0f,comet.organic,available,66.2,66.2,high,low,5,cloudflare,,,29/09/2026 00:28
 0b1f5160-5a4c-44a0-ae78-2c275831cc58,spurting.organic,available,19.99,73.99,medium,low,8,name.com,,,22/08/2026 13:13
 a50b4fc8-8a25-4107-bf3e-f45de0199fb8,spot.organic,available,17.99,85.99,high,medium,4,namesilo,,,29/09/2026 02:14
-c5ebb11a-8a24-4de5-b5ca-13fbaaf74050,fiberoptic.organic,available,19.99,73.99,medium,low,10,name.com,,,18/08/2026 03:12
-c053ec76-b04c-41fd-b585-547d5821f58e,hollering.organic,available,17.99,85.99,medium,low,9,namesilo,,,23/09/2026 06:21
+c5ebb11a-8a24-4de5-b5ca-13fbaaf74050,fiberoptic.organic,available,19.99,73.99,high,low,10,name.com,,,18/08/2026 03:12
+c053ec76-b04c-41fd-b585-547d5821f58e,hollering.organic,available,17.99,85.99,high,low,9,namesilo,,,23/09/2026 06:21
 1e0b15e1-32a5-4ce1-9ee0-098e9ec36b4e,fortress.organic,available,17.99,85.99,high,low,8,namesilo,,,28/09/2026 05:46
 975b2b2c-6c11-4a65-ac7f-755e79b67db4,cupboard.organic,available,17.99,85.99,high,low,8,namesilo,,,24/09/2026 15:58
 5e06f67d-e9ce-478d-bf53-bee76456bbfe,bared.organic,available,17.99,85.99,medium,low,5,namesilo,,,22/09/2026 17:24
 edfb6f5d-3c6b-4d85-b065-ec4442dc9ad7,laminar.organic,available,19.99,73.99,high,low,7,name.com,,,22/08/2026 19:07
 3d322a00-0e70-465f-bad3-39a9ef5f432f,bowls.organic,available,17.99,85.99,high,low,5,namesilo,,,29/09/2026 03:46
-80ed61a6-e2ab-4473-a12d-b024f094a1ff,pout.organic,available,,,medium,low,4,,,,18/09/2026 18:12
+80ed61a6-e2ab-4473-a12d-b024f094a1ff,pout.organic,available,,,high,low,4,,,,18/09/2026 18:12
 a7b9b096-c903-49fd-b16a-a1cf2890db80,libby.organic,available,17,,high,low,5,unstoppable,,,28/09/2026 02:15
 a7f73a72-7f64-44ef-ac88-b2a7854ae2ae,adit.organic,available,17.99,85.99,medium,low,4,namesilo,,,17/09/2026 08:21
 b920a21a-3ba2-4090-b9a2-8835e2b53785,refundable.organic,available,19.99,,high,low,10,name.com,,,
+6ee9c100-6022-43a5-979e-57afa4e22558,undertaking.organic,available,17,,high,low,11,unstoppable,,,29/09/2026 21:13
 0020e44d-44f3-41d7-89a0-4f94d2addd18,calorie.organic,available,17.99,85.99,high,low,7,namesilo,,,24/09/2026 11:50
+a1815a24-f1a0-4697-9df3-b62802e0598e,terrence.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 21:50
+4f596fa4-bc07-4a28-bb7b-31ea4e4a3039,illustrate.organic,available,17.99,85.99,high,low,10,namesilo,,,29/09/2026 13:08
 8b3ca6b1-a8f0-4c00-a2f2-97d358b295f0,cooked.organic,available,17.99,85.99,high,low,6,namesilo,,,23/09/2026 22:56
 3fffe152-1f08-4161-abcb-6bf9b9595938,bindable.organic,available,19.99,73.99,medium,low,8,name.com,,,09/08/2026 23:44
 b627f71b-eaf7-421d-9168-1425977e7753,richards.organic,available,17.99,85.99,high,low,8,namesilo,,,25/09/2026 07:42
@@ -508,21 +556,22 @@ a57864cb-8df7-4b53-9caa-39fe3b89eaf2,equality.organic,available,17,,high,low,8,u
 152f499d-efcb-4a4a-8b9e-2b31e34c50ba,apian.organic,available,19.99,73.99,medium,low,5,name.com,,,05/08/2026 23:47
 42b3acf0-f8eb-41a0-b2e9-808ba3b7c2b2,coordinate.organic,available,17.99,85.99,high,low,10,namesilo,,,08/09/2026 03:35
 0a7f4cf5-bd71-4064-9b94-9c311270bac5,cloudlike.organic,available,19.99,73.99,medium,low,9,name.com,,,12/08/2026 12:38
-fb530d0a-23c8-4300-82e8-d856bb766742,alternator.organic,available,17.99,85.99,medium,low,10,namesilo,,,18/09/2026 14:48
+fb530d0a-23c8-4300-82e8-d856bb766742,alternator.organic,available,17.99,85.99,high,low,10,namesilo,,,18/09/2026 14:48
 c3825919-387e-4c18-9631-41733e0ab5ae,whats.organic,available,17.99,85.99,medium,low,5,namesilo,,,20/09/2026 02:25
 9f630cb7-9421-46b2-90b1-f62701fdcb82,foyer.organic,available,17.99,85.99,high,low,5,namesilo,,,19/09/2026 12:45
 687afba9-2d5d-4513-acb6-47942a9ac51a,bluetooth.organic,available,19.99,,high,low,9,name.com,,,
 550c1b79-0837-4e31-98b0-bf9743a83389,wage.organic,available,66.2,66.2,high,low,4,cloudflare,,,28/09/2026 10:40
 61e2d545-b50b-409b-ae5f-4ebe45c19f9d,adenovirus.organic,available,17.99,85.99,medium,low,10,namesilo,,,17/09/2026 07:41
-311a69af-3cd6-4ea6-abb0-85512bad9800,benzoate.organic,available,17.99,85.99,medium,low,8,namesilo,,,23/09/2026 08:56
+311a69af-3cd6-4ea6-abb0-85512bad9800,benzoate.organic,available,17.99,85.99,high,low,8,namesilo,,,23/09/2026 08:56
 b9c52d4e-bf18-4244-83b3-ac6591183198,impacted.organic,available,19.99,73.99,medium,low,8,name.com,,,21/08/2026 21:36
 f9b90b43-c1ed-450f-900d-2267aa76cc44,borden.organic,available,17.99,85.99,high,low,6,namesilo,,,28/09/2026 07:29
 0d74b56e-9f51-47c6-8a60-1bca0edb7df1,blameless.organic,available,19.99,73.99,high,low,9,name.com,,,10/08/2026 12:53
 a3b52875-e1d8-4250-b81b-4197184c412b,solvent.organic,available,17.99,85.99,high,low,7,namesilo,,,19/09/2026 16:47
+1f864a29-ea4b-4279-91e4-4dfb6b39ed11,reproductive.organic,available,17.99,85.99,high,low,12,namesilo,,,29/09/2026 14:35
 017880d3-961f-4fab-9903-984fafe9089c,blissfully.organic,available,17.99,85.99,high,low,10,namesilo,,,14/09/2026 00:23
 2a522dc4-e260-445a-bc96-9e028b1d495e,frequent.organic,available,19.99,73.99,high,low,8,name.com,,,18/08/2026 15:06
 27f2ab97-1f41-4926-a154-a1a3244d0fa4,edit.organic,available,66.2,66.2,high,low,4,cloudflare,,,29/09/2026 02:42
-62a4b97f-d212-4e4d-ba39-392fac594427,obsolete.organic,available,19.99,73.99,medium,low,8,name.com,,,14/08/2026 13:30
+62a4b97f-d212-4e4d-ba39-392fac594427,obsolete.organic,available,19.99,73.99,high,low,8,name.com,,,14/08/2026 13:30
 c4d80eaf-deb6-4401-9e94-0029c03fbad9,cupidity.organic,available,17.99,85.99,medium,low,8,namesilo,,,21/09/2026 08:48
 b751aecb-2654-4271-9b38-963a55aec4ef,herman.organic,available,10.81,68.49,high,low,6,porkbun,,,28/09/2026 02:07
 d06614f8-3304-4569-acef-f98b8368745c,critter.organic,available,,,high,low,7,,,,24/09/2026 19:33
@@ -535,6 +584,7 @@ e7d15718-c530-4ce7-8af8-a6dff24865f6,freud.organic,available,10.81,68.49,medium,
 6000d8be-5957-4e9b-93f6-0b3e386db69d,qualified.organic,available,19.99,73.99,high,low,9,name.com,,,14/08/2026 02:10
 2c5f0ab5-57b8-4545-8ea3-bc0451497cef,avionics.organic,available,17.99,85.99,high,low,8,namesilo,,,21/09/2026 09:35
 143ebe0b-cb64-45e8-9977-9a6fcbbb06b2,bermudian.organic,available,19.99,73.99,medium,low,9,name.com,,,09/08/2026 15:15
+6717e1f3-1e3c-4f64-b6ba-872ada711b76,safari.organic,available,66.2,66.2,high,low,6,cloudflare,,,29/09/2026 07:19
 712f6369-8046-43dd-845c-dc740360536a,teaching.organic,available,17.99,85.99,high,low,8,namesilo,,,24/09/2026 22:15
 417a9ee3-998a-4f65-b8f2-eba5d083959d,witch.organic,available,19.99,73.99,high,low,5,name.com,,,21/08/2026 07:44
 0e60ec5a-b92b-4498-b9e8-dd2e7f5c89a6,braveness.organic,available,17.99,85.99,high,low,9,namesilo,,,24/09/2026 08:20
@@ -546,58 +596,67 @@ db60a7ed-ad13-47d4-9742-3e8cf7f90bb1,ipswich.organic,available,10.81,68.49,high,
 ce6560ce-a982-4831-815e-8d281dcfc3c0,hogan.organic,available,17.99,85.99,high,low,5,namesilo,,,23/09/2026 07:21
 87d7f9cd-dac5-473c-905b-7b815247c071,hymn.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 01:20
 52801714-f674-48b8-91ef-054c2a3ca184,mansard.organic,available,19.99,73.99,medium,low,7,name.com,,,24/08/2026 15:30
+4f339aa6-45da-4afa-91b9-6d11d72b80f8,pornographic.organic,available,17,,medium,low,12,unstoppable,,,29/09/2026 20:53
 c0769c75-0a4f-4b17-8c7c-9eec6ef5b2cc,potatoes.organic,available,17.99,85.99,medium,low,8,namesilo,,,27/09/2026 02:12
 22a04254-5cea-408f-80aa-03049a521466,staccato.organic,available,19.99,73.99,high,low,8,name.com,,,14/08/2026 09:57
 d088d9bc-7ca1-4412-9a3c-51725975d93a,bauer.organic,available,17.99,85.99,high,low,5,namesilo,,,25/09/2026 13:07
+23c001b6-ca16-4000-a958-e5f6ac12a726,vanish.organic,available,17.99,85.99,high,low,6,namesilo,,,29/09/2026 14:13
 2c61e881-75cf-408d-aa4f-cab6a3554b8a,august.organic,available,17.99,85.99,high,low,6,namesilo,,,22/09/2026 12:44
 a9cb7bb4-35ec-448a-a766-6269b36756e4,dai.organic,available,17.99,85.99,high,low,3,namesilo,,,26/09/2026 00:53
 0f1b66bc-be21-45df-9255-53a750ec116e,effects.organic,available,17.99,85.99,high,low,7,namesilo,,,27/09/2026 03:49
 a0074ae0-b052-45b6-ae19-89163fdf057a,patientcare.organic,available,19.99,,high,low,11,name.com,,,
-677acec6-9339-49fe-8ad7-faf0ad369c37,auberge.organic,available,17.99,85.99,medium,low,7,namesilo,,,21/09/2026 02:29
+677acec6-9339-49fe-8ad7-faf0ad369c37,auberge.organic,available,17.99,85.99,high,low,7,namesilo,,,21/09/2026 02:29
 90fa4de2-2671-4eb4-88d4-9226c0f61384,pneumonia.organic,available,10.81,68.49,high,low,9,porkbun,,,28/09/2026 06:36
 0921aa8a-3ec3-4ab7-b60b-2e19e1cd575a,oft.organic,available,,,high,low,3,,,,14/09/2026 20:06
 7dbdaa69-77a1-496b-8cf6-251f58033413,aires.organic,available,17.99,85.99,high,low,5,namesilo,,,25/09/2026 21:54
 1a5b87a2-05ea-42d3-a6d6-675cd5822e96,colonial.organic,available,19.99,73.99,high,low,8,name.com,,,12/08/2026 17:20
 6a3d6dad-4246-4227-940c-28280c8a2210,bomb.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 03:18
+2d31ac83-1a9a-4c50-8333-7d187693b391,maximize.organic,available,17.99,85.99,high,low,8,namesilo,,,29/09/2026 20:44
 96e5df85-8028-4929-940c-c452eb418524,unimposing.organic,available,17.99,85.99,medium,low,10,namesilo,,,12/09/2026 13:12
+6906a006-6209-4989-8aea-5fb06a2a9c51,financing.organic,available,10.81,68.49,high,low,9,porkbun,,,29/09/2026 12:21
 408df9dc-6d3d-4c5d-b5e5-05a1730c8693,commenting.organic,available,19.99,,high,low,10,name.com,,,
 3e38133f-263e-4a0c-a488-cd579445f175,definitive.organic,available,19.99,73.99,high,low,10,name.com,,,12/08/2026 09:45
 6800a666-68a7-40f3-aa8e-b1d255346939,spinning.organic,available,17.99,85.99,high,low,8,namesilo,,,27/09/2026 05:29
 c938e77b-93ae-4869-9c64-bb7217022af7,assignments.organic,available,66.2,66.2,medium,low,11,cloudflare,,,28/09/2026 18:20
 8e9f0a3c-edfa-4c7f-bd06-7488c105197d,proficient.organic,available,17.99,85.99,high,low,10,namesilo,,,21/09/2026 17:23
+3cf0ff0e-eea9-4577-8e76-7605c6c44d60,uci.organic,available,17.99,85.99,high,low,3,namesilo,,,29/09/2026 09:30
 f816017a-1e76-4126-b860-eb73d79714da,perform.organic,available,19.99,,high,low,7,name.com,,,
 5f4d9fc1-d3de-4e68-90dc-9f782d76c129,downgrade.organic,available,17.99,85.99,high,low,9,namesilo,,,24/09/2026 23:39
 3dbefe45-5a09-4950-b32a-712c8cfeca05,impartial.organic,available,19.99,73.99,high,low,9,name.com,,,21/08/2026 21:45
 2cea255e-a7a0-48e7-b724-0beaf231f24f,secretive.organic,available,19.99,73.99,medium,low,9,name.com,,,12/08/2026 12:18
 a2f472e5-7f9c-4dfd-834c-3a5d0978f231,celeriac.organic,available,17.99,85.99,medium,low,8,namesilo,,,19/09/2026 17:33
+533e6479-a6af-4df8-abea-9567121f21c0,columnist.organic,available,17.99,85.99,high,low,9,namesilo,,,29/09/2026 11:55
 d6b34319-6884-4310-a668-00a8c059c0c6,mcintosh.organic,available,17.99,85.99,high,low,8,namesilo,,,27/09/2026 04:44
+40466b79-5142-4710-bc07-385a926d62b9,deputies.organic,available,17,,low,low,8,unstoppable,,,29/09/2026 05:37
 d4f181bf-bac1-4c81-9015-3c60d240fdc2,worms.organic,available,17.99,85.99,high,low,5,namesilo,,,28/09/2026 03:50
 b7b7bb99-7879-4578-ac36-32e2e720d66e,gardener.organic,available,17,,high,low,8,unstoppable,,,28/09/2026 09:51
 c592b705-9053-4bfd-ac5a-1abdf4a9810c,umbilical.organic,available,17.99,85.99,high,low,9,namesilo,,,11/09/2026 23:00
-17350314-e225-491a-8474-18d123436104,curtain.organic,available,19.99,,high,low,7,name.com,,,
+17350314-e225-491a-8474-18d123436104,curtain.organic,available,10.81,68.49,high,low,7,porkbun,,,29/09/2026 13:08
 ab9e90e4-0303-4862-9e1e-089092bc1411,liberation.organic,available,10.81,68.49,high,low,10,porkbun,,,28/09/2026 14:14
 deee147d-5394-4db3-a47a-c51fd8b709cd,lasts.organic,available,17,,low,low,5,unstoppable,,,28/09/2026 09:03
 90bc3dd1-0e60-4160-a979-23844c6a8794,stately.organic,available,19.99,73.99,high,low,7,name.com,,,08/08/2026 20:22
 fe221dbb-c45d-4b22-ab65-652d4c9c22cf,pressed.organic,available,19.99,73.99,high,low,7,name.com,,,27/09/2026 05:21
-9191dc4e-c121-430b-a84f-be29e129fd9c,neandertal.organic,available,19.99,73.99,medium,low,10,name.com,,,10/08/2026 19:30
+9191dc4e-c121-430b-a84f-be29e129fd9c,neandertal.organic,available,19.99,73.99,high,low,10,name.com,,,10/08/2026 19:30
 45655a55-0144-414f-8664-40d837ecc8b7,listening.organic,available,17.99,85.99,high,low,9,namesilo,,,25/09/2026 09:00
 1110f3f6-f136-437f-9782-e623e8021f47,roger.organic,available,19.99,,high,low,5,name.com,,,
 0279a8bd-99d6-4469-b680-9b9b59eae3c1,simpler.organic,available,19.99,,high,low,7,name.com,,,
 dcda00f0-5d82-463f-a02b-9946a2cae880,marietta.organic,available,17,,high,low,8,unstoppable,,,28/09/2026 04:02
-26702436-cbb8-430b-ac05-7440b86aaacb,biotite.organic,available,,,medium,low,7,,,,23/09/2026 19:13
+26702436-cbb8-430b-ac05-7440b86aaacb,biotite.organic,available,,,high,low,7,,,,23/09/2026 19:13
 b7a0845a-a822-49ce-ba83-b518c398eda7,nice.organic,available,17.99,85.99,high,medium,4,namesilo,,,24/09/2026 00:45
 0601e847-9d92-4efa-b0a6-904c4bd2b5d8,lobster.organic,available,66.2,66.2,high,low,7,cloudflare,,,28/09/2026 06:11
 b51ceffe-9c74-452a-94ca-a18bee3f3b76,doc.organic,available,17.99,85.99,high,medium,3,namesilo,,,24/09/2026 16:30
 a5c3a17a-97e0-4ddc-a113-864fbfe890bf,ride.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 00:38
-4cb5afd9-da32-4d31-8049-a79643855a3f,felon.organic,available,19.99,73.99,medium,low,5,name.com,,,13/08/2026 06:25
+4cb5afd9-da32-4d31-8049-a79643855a3f,felon.organic,available,19.99,73.99,high,low,5,name.com,,,13/08/2026 06:25
 04d1714e-4122-4c10-a923-8a9c64a91647,devotions.organic,available,17.99,85.99,medium,low,9,namesilo,,,20/09/2026 02:07
 27b453ab-67a1-42e9-a2f0-e973f06a42c8,ensure.organic,available,19.99,,high,low,6,name.com,,,
 40cf6b37-7b90-4a5a-93ce-1d68383d66d4,softness.organic,available,17.99,85.99,high,low,8,namesilo,,,21/09/2026 23:37
+51131100-9c33-4e5e-a294-b51a781f1752,fsa.organic,available,17.99,85.99,high,low,3,namesilo,,,29/09/2026 08:40
 70303e04-64d5-41db-adbf-fc88f90b1201,beany.organic,available,,,high,low,5,,,,22/09/2026 20:33
 a1301eae-0bc6-4b72-b009-bf581ddedbfe,piston.organic,available,19.99,,high,low,6,name.com,,,
 789ab65e-d2b1-4c2d-9f30-cc4515ebffdb,suspension.organic,available,17,,high,low,10,unstoppable,,,28/09/2026 16:59
 6da8d399-390d-40ef-ad96-9453720f7dea,repository.organic,available,17.99,85.99,high,low,10,namesilo,,,24/09/2026 21:59
-f6383d97-9b76-4fd9-b06b-6e68e3a6828f,dendroid.organic,available,19.99,73.99,medium,low,8,name.com,,,06/08/2026 13:50
+e35356cd-8693-47ca-9b2c-71ea86d8c105,sections.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 05:14
+f6383d97-9b76-4fd9-b06b-6e68e3a6828f,dendroid.organic,available,19.99,73.99,high,low,8,name.com,,,06/08/2026 13:50
 4e8b8673-9ac9-4df2-888d-7a1eee792c1d,bitty.organic,available,19.99,73.99,high,low,5,name.com,,,10/08/2026 07:51
 b799b32a-b35b-4609-a33b-46d73a2e8f15,sopping.organic,available,17.99,85.99,medium,low,7,namesilo,,,14/09/2026 14:30
 87bbce87-2487-4d78-88c2-245ddf92749a,continues.organic,available,17.99,85.99,medium,low,9,namesilo,,,17/09/2026 13:29
@@ -605,7 +664,7 @@ b726793c-4100-4695-823e-ef31493e93f2,blacksnake.organic,available,17.99,85.99,me
 b6e45179-3565-480c-b595-fc5b8c8761d8,absorber.organic,available,,,high,low,8,,,,16/09/2026 18:17
 9c4ed9d7-93f8-4a15-be00-6dc5216f38ba,unpainted.organic,available,17.99,85.99,medium,low,9,namesilo,,,12/09/2026 16:25
 f1b62435-ed85-4af6-bd2e-eacb7aa9cbd9,acronym.organic,available,66.2,66.2,high,low,7,cloudflare,,,28/09/2026 18:01
-1a57f0dc-3d98-4583-8fd8-17ec75149ff1,modeled.organic,available,19.99,73.99,medium,low,7,name.com,,,25/08/2026 02:51
+1a57f0dc-3d98-4583-8fd8-17ec75149ff1,modeled.organic,available,19.99,73.99,high,low,7,name.com,,,25/08/2026 02:51
 95e6e00a-0e89-4ee4-a6c7-092caaa25585,interest.organic,available,17.99,85.99,high,low,8,namesilo,,,08/09/2026 14:02
 a724bd09-948a-4833-9137-f480dbd13c29,unyielding.organic,available,19.99,73.99,high,low,10,name.com,,,14/08/2026 15:01
 54407eb8-061c-4188-9fea-bc9906e22d02,nikolai.organic,available,66.2,66.2,high,low,7,cloudflare,,,27/09/2026 20:11
@@ -624,18 +683,22 @@ e954df08-e006-43c7-9605-d8f09d460b9f,unbalanced.organic,available,19.99,73.99,me
 2051660c-1feb-4378-8b4e-114f3e1e1678,stickup.organic,available,17.99,85.99,medium,low,7,namesilo,,,20/09/2026 06:38
 2089933c-105c-40e1-a9d1-493a881f30c7,believer.organic,available,17.99,85.99,high,low,8,namesilo,,,23/09/2026 05:13
 560270bf-1c59-4de3-a5fc-8febecec2a22,laffer.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 10:59
+2a9210dd-456a-4234-8a6e-1cea33900882,denies.organic,available,66.2,66.2,low,low,6,cloudflare,,,29/09/2026 15:56
 63b976d3-fbe1-420a-91f4-f62dad5309ea,foaming.organic,available,19.99,73.99,high,low,7,name.com,,,11/08/2026 07:18
+66897d6c-952b-421b-bee8-87313c8b8839,brahmins.organic,available,17.99,85.99,medium,low,8,namesilo,,,30/09/2026 00:48
 c1bf52e7-58b9-4e2c-a0f2-2450f4dd160b,ugandan.organic,available,17.99,85.99,high,low,7,namesilo,,,11/09/2026 22:40
 b243d0ed-4a3b-4432-b3c5-a01d16c05951,assail.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 15:49
+58e1458c-5323-48c8-b744-7d9738758b41,torrey.organic,available,17.99,85.99,medium,low,6,namesilo,,,29/09/2026 09:58
 2f17c29d-ec7b-4f9e-b710-a370d5073c0f,oscillations.organic,available,10.81,68.49,low,low,12,porkbun,,,28/09/2026 12:58
-8e1b7706-ef2d-4ec3-b44c-becfcfc17564,kilometre.organic,available,19.99,,high,low,9,name.com,,,
+8e1b7706-ef2d-4ec3-b44c-becfcfc17564,kilometre.organic,available,17.99,85.99,high,low,9,namesilo,,,30/09/2026 01:35
 fb6af8c6-eb72-4c52-84d5-7b335642794a,bush.organic,available,17.99,85.99,high,low,4,namesilo,,,23/09/2026 11:53
-f37d6201-8282-48c8-b405-1c22472c5bbc,unattached.organic,available,19.99,73.99,medium,low,10,name.com,,,18/08/2026 14:48
+f37d6201-8282-48c8-b405-1c22472c5bbc,unattached.organic,available,19.99,73.99,high,low,10,name.com,,,18/08/2026 14:48
 65eff322-7038-43ee-8c9f-844ff69431b4,accurately.organic,available,17,,high,low,10,unstoppable,,,28/09/2026 11:42
 669e1998-8dd3-4867-82b6-4c9e99a2f8f1,offensive.organic,available,19.99,73.99,high,low,9,name.com,,,14/08/2026 22:05
 94ecbfb1-d29a-4b3f-bf07-f45e3995e266,anosmic.organic,available,19.99,73.99,medium,low,7,name.com,,,
 3c0f6e7c-f737-48b5-a16f-81506df588d2,fitzgerald.organic,available,17.99,85.99,high,low,10,namesilo,,,25/09/2026 05:15
 946fbf1d-63fc-4bc5-997a-74c58abb675c,cca.organic,available,17.99,85.99,high,low,3,namesilo,,,29/09/2026 03:53
+3f00acb7-b526-449e-9963-ee9d26bc67c3,strokes.organic,available,17,,medium,low,7,unstoppable,,,29/09/2026 04:49
 be55ab1e-8912-431d-bb6f-47335ed601d1,metabolic.organic,available,19.99,73.99,high,low,9,name.com,,,24/08/2026 21:26
 d787ed2a-c3b0-4de0-8c4b-604fccbc8816,aorist.organic,available,19.99,73.99,medium,low,6,name.com,,,19/09/2026 16:03
 5f7c6efa-d2c9-45c9-b8d4-89c1ff85375b,bellboy.organic,available,17.99,85.99,high,low,7,namesilo,,,23/09/2026 05:55
@@ -643,13 +706,16 @@ b56c34a0-5873-4fe5-8742-44cba2350caf,unredeemed.organic,available,,,medium,low,1
 6c4f0b95-c549-4cc3-bf5d-4823e00a4e03,curtiss.organic,available,66.2,66.2,high,low,7,cloudflare,,,27/09/2026 12:50
 0ba2e6cf-b914-471c-8394-f1f06920953d,mentally.organic,available,17.99,85.99,medium,low,8,namesilo,,,15/09/2026 14:13
 e938fff1-5c1e-475c-a782-b5f947cc4432,frank.organic,available,17.99,85.99,high,medium,5,namesilo,,,08/09/2026 05:07
+ebc89eac-f376-4a05-ad51-c8a50a669035,clears.organic,available,66.2,66.2,high,low,6,cloudflare,,,29/09/2026 17:52
 3d2d2f8e-adac-4284-8a97-62d1b4d3d762,ravioli.organic,available,17.99,85.99,high,low,7,namesilo,,,24/09/2026 12:37
 a85cc741-4767-4dd9-a251-f0c87159c896,disorderly.organic,available,19.99,73.99,medium,low,10,name.com,,,14/08/2026 11:51
 b57de9ef-d72d-432d-aa03-de95eab3514f,nauseous.organic,available,19.99,73.99,medium,low,8,name.com,,,24/08/2026 08:24
 6d297aa5-664a-4089-95af-0ee18efe9287,willoughby.organic,available,66.2,66.2,high,low,10,cloudflare,,,28/09/2026 00:32
 a7bec37d-ef6d-448c-85b9-4ae5267b5bc6,unlabeled.organic,available,17.99,85.99,medium,low,9,namesilo,,,12/09/2026 14:28
 6725d21d-bf90-4fc9-a09f-ac858a58eb82,billet.organic,available,17.99,85.99,high,low,6,namesilo,,,23/09/2026 10:14
-dd14e413-7930-4778-a3db-fefeeeba2533,sellable.organic,available,19.99,73.99,medium,low,8,name.com,,,24/08/2026 20:28
+dd14e413-7930-4778-a3db-fefeeeba2533,sellable.organic,available,19.99,73.99,high,low,8,name.com,,,24/08/2026 20:28
+ecdff55c-ad1d-4f16-b7b8-8a64b7f59c04,malagasy.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 22:51
+659e84ab-b29a-4352-91a1-dbcb44011943,plots.organic,available,17.99,85.99,medium,low,5,namesilo,,,29/09/2026 17:24
 896e5da4-ecb5-4412-802b-dc52f7a8432f,hittite.organic,available,19.99,73.99,medium,low,7,name.com,,,21/08/2026 10:00
 8218c5ea-fd14-45d1-946a-c3c988f8b595,springbok.organic,available,17.99,85.99,high,low,9,namesilo,,,19/09/2026 14:19
 6e577068-c1f3-4f8e-9fbf-882f9398e632,bestseller.organic,available,17.99,85.99,high,low,10,namesilo,,,23/09/2026 10:31
@@ -659,6 +725,7 @@ d0721af3-0c7a-4572-9ca6-a13070c7b703,colosseum.organic,available,17.99,85.99,hig
 9623a4fc-b3f3-4b31-8a94-57f104233a4a,assamese.organic,available,19.99,73.99,medium,low,8,name.com,,,07/08/2026 05:38
 5516a82b-38da-40da-a719-b9e2ab387dc7,broadcasting.organic,available,17.99,85.99,medium,low,12,namesilo,,,28/09/2026 12:27
 fdaf5053-11f9-4858-ab56-7ebc511bbad9,miracle.organic,available,19.99,,high,low,7,name.com,,,
+e66848f9-e63e-47c0-bcfc-7a76758afa5d,snout.organic,available,17.99,85.99,high,low,5,namesilo,,,30/09/2026 01:54
 adc91dc6-d51d-4193-879f-d5b5ab5a0e61,manslaughter.organic,available,17,,medium,low,12,unstoppable,,,28/09/2026 22:46
 be97fb29-e300-4401-a089-95133ed95479,grandmothers.organic,available,19.99,,medium,low,12,name.com,,,20/09/2026 18:06
 028353a7-cc7d-43c5-954b-1beafb116f31,officials.organic,available,17.99,85.99,medium,low,9,namesilo,,,17/09/2026 12:28
@@ -667,16 +734,19 @@ be97fb29-e300-4401-a089-95133ed95479,grandmothers.organic,available,19.99,,mediu
 0f567bd6-c022-498c-98fe-0540728bce30,located.organic,available,17.99,85.99,high,low,7,namesilo,,,25/09/2026 14:10
 49a18d5f-b8ea-4353-864b-fb7e37e9d819,abundant.organic,available,17.99,85.99,high,low,8,namesilo,,,21/09/2026 15:18
 2aa918d4-7e8f-496a-a997-3908ee91f84c,hostess.organic,available,17.99,85.99,high,low,7,namesilo,,,17/09/2026 22:27
+34a3dc8f-78c1-47cc-8d41-95b8b919b646,trails.organic,available,17,,high,low,6,unstoppable,,,29/09/2026 11:32
 8309c8c9-54d3-4de2-ab07-d48db99f9c33,helpless.organic,available,19.99,73.99,medium,low,8,name.com,,,21/08/2026 06:38
 badb6aad-c229-4f33-9b2b-bb5f8a5dbdfb,obnubilate.organic,available,17.99,85.99,medium,low,10,namesilo,,,03/09/2026 23:55
 f150bc98-fc84-4501-a646-1f138a0b2b71,plunge.organic,available,,,high,low,6,,,,10/09/2026 19:52
 7071d65c-3706-4998-b880-f1453fcd10a2,zeroth.organic,available,17.99,85.99,medium,low,6,namesilo,,,13/09/2026 15:14
 08904568-40e0-4561-ad0d-34ad25ff6fc4,vince.organic,available,17.99,85.99,high,low,5,namesilo,,,27/09/2026 07:24
+16de14fd-863f-4bdf-a421-b07ecd7b260e,scrutiny.organic,available,66.2,66.2,high,low,8,cloudflare,,,30/09/2026 01:34
 b8b41112-001b-4818-bd8c-ebc4bc5e1a00,cleanup.organic,available,19.99,73.99,high,low,7,name.com,,,12/08/2026 10:26
 9f14d52c-0345-43c5-9a23-39b7ac3a0cc4,strung.organic,available,17.99,85.99,medium,low,6,namesilo,,,10/09/2026 22:54
 319b9dd4-7f17-4a52-abc7-4c051c91dbcd,reef.organic,available,17.99,85.99,high,low,4,namesilo,,,28/09/2026 10:48
 1cbe614c-11e6-4afa-8eb7-d2d4e8dc0222,twinned.organic,available,19.99,73.99,high,low,7,name.com,,,24/08/2026 16:58
 c6d27a01-b793-41de-aecb-9355cb535e7c,anticipant.organic,available,19.99,73.99,medium,low,10,name.com,,,
+a0b01679-b9ae-401f-83b7-6b4b98808003,thinker.organic,available,17,,high,low,7,unstoppable,,,30/09/2026 01:09
 86ae26e1-8dd6-490a-81f3-a156bfe5ad22,examiner.organic,available,17.99,85.99,medium,low,8,namesilo,,,28/09/2026 14:05
 f0d5be47-5f94-4a33-ae61-4fb3f8e99995,show.organic,available,17.99,85.99,high,low,4,namesilo,,,24/09/2026 16:06
 a8d99b87-6d5a-4b8c-9f05-5b94ca655fd6,fairly.organic,available,17.99,85.99,high,low,6,namesilo,,,24/09/2026 16:08
@@ -685,12 +755,13 @@ a8d99b87-6d5a-4b8c-9f05-5b94ca655fd6,fairly.organic,available,17.99,85.99,high,l
 28f765a1-4bb4-48e5-be6d-f55a44f0f8e4,dazzlingly.organic,available,17.99,85.99,medium,low,10,namesilo,,,14/09/2026 10:58
 82d6c92b-063a-4694-9edf-5785460cfb63,jetting.organic,available,19.99,73.99,high,low,7,name.com,,,22/08/2026 13:09
 a8843044-4768-4f6e-8a39-4da34f870536,veinal.organic,available,17.99,85.99,medium,low,6,namesilo,,,13/09/2026 01:51
-9b885001-b151-411d-bec4-502f14121c81,crusade.organic,available,17,,medium,low,7,unstoppable,,,28/09/2026 09:29
+9b885001-b151-411d-bec4-502f14121c81,crusade.organic,available,17,,high,low,7,unstoppable,,,28/09/2026 09:29
 857e1b18-9f6e-40d1-a71a-e59cb255fe85,clustered.organic,available,19.99,73.99,high,low,9,name.com,,,
 d082627e-ed19-42e1-9579-ac2e3878d35c,anguish.organic,available,17.99,85.99,medium,low,7,namesilo,,,19/09/2026 07:36
 07360514-0326-418d-917e-bfb9eb3e59f1,alluring.organic,available,17.99,85.99,high,low,8,namesilo,,,22/09/2026 01:34
 069a1707-f8b8-4eb6-9ef8-8e417e2c843e,goody.organic,available,19.99,73.99,high,low,5,name.com,,,13/08/2026 15:54
-b67cdd67-d34a-4605-a760-31838c3b57da,superheroes.organic,available,17.99,85.99,medium,low,11,namesilo,,,21/09/2026 05:42
+16f80a3a-9f9f-4f6e-b0c1-f3717f5bd4aa,chords.organic,available,17,,medium,low,6,unstoppable,,,29/09/2026 16:32
+b67cdd67-d34a-4605-a760-31838c3b57da,superheroes.organic,available,17.99,85.99,high,low,11,namesilo,,,21/09/2026 05:42
 0c9fd743-d51f-477e-ad66-432eb7f22bbf,aplomb.organic,available,,,high,low,6,,,,19/09/2026 17:47
 999ce9f6-7ca4-441c-891f-b3e04141a3a6,barbarian.organic,available,19.99,73.99,high,low,9,name.com,,,08/08/2026 15:26
 2124b8d8-4acb-4952-bea2-230f471288cf,typic.organic,available,17.99,85.99,medium,low,5,namesilo,,,11/09/2026 22:29
@@ -706,16 +777,19 @@ ff0b80a0-d269-47b1-818a-cffd57b570e8,playlists.organic,available,17.99,85.99,med
 aa9a3120-76b8-405d-a8a4-171d19f34a12,contract.organic,available,17.99,85.99,high,low,8,namesilo,,,03/09/2026 13:23
 e0b018a1-d5e7-4260-8fb4-ec8117c8642a,baseplate.organic,available,19.99,,medium,low,10,name.com,,,
 27796d44-402b-4f4d-89b1-d464a5300fd6,bbs.organic,available,,,high,low,3,,,,22/09/2026 18:34
-4260e2b0-41d3-4ac6-b40a-a7378e0b0728,accused.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 17:31
+2bb09cf1-f048-419c-a296-3c4507efa47b,dalmatia.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 12:00
+4260e2b0-41d3-4ac6-b40a-a7378e0b0728,accused.organic,available,17.99,85.99,high,low,7,namesilo,,,28/09/2026 17:31
 a4890292-074f-486f-b6ed-edc631b03d9e,tare.organic,available,,,high,low,4,,,,22/09/2026 21:12
 81c2b0d0-9caa-4601-a198-5d1d49f91e5c,silky.organic,available,,,high,low,5,,,,09/09/2026 21:45
 c8060845-8c69-43f4-9d24-325e3d7906aa,carthusian.organic,available,19.99,73.99,high,low,10,name.com,,,11/08/2026 19:53
 0964084a-ac9d-4747-87ef-a3bf1e7c060f,artois.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 12:02
+88faa2c6-091c-44e0-80d3-238524cc6c5a,turk.organic,available,17,,high,low,4,unstoppable,,,29/09/2026 08:16
 196bd386-6c21-4357-a208-24711a246429,crucially.organic,available,17.99,85.99,medium,low,9,namesilo,,,14/09/2026 09:50
 42638321-4416-4066-aeca-43755244eb02,hesse.organic,available,17.99,85.99,high,low,5,namesilo,,,27/09/2026 04:26
 7e841758-22d7-4c78-ac57-cd2fbfd0d4c4,domino.organic,available,17.99,85.99,high,low,6,namesilo,,,19/09/2026 15:22
-5fc6b527-ca85-4521-9900-e7ce6778f259,chairwoman.organic,available,19.99,,high,low,10,name.com,,,
-60e0b561-47b2-4224-bff0-616d26462c4a,hanukkah.organic,available,19.99,,high,low,8,name.com,,,
+2dab6220-3a25-4201-bc4f-82f241e0d559,instrumental.organic,available,17.99,85.99,high,low,12,namesilo,,,29/09/2026 08:27
+5fc6b527-ca85-4521-9900-e7ce6778f259,chairwoman.organic,available,17.99,85.99,high,low,10,namesilo,,,29/09/2026 07:58
+60e0b561-47b2-4224-bff0-616d26462c4a,hanukkah.organic,available,17.99,85.99,high,low,8,namesilo,,,29/09/2026 08:04
 e01778b6-f3d4-4675-9615-bf13ec12ff85,external.organic,available,19.99,73.99,high,low,8,name.com,,,17/08/2026 19:09
 c155b932-a770-4abc-9c3b-cdb86e504b56,laconic.organic,available,19.99,73.99,medium,low,7,name.com,,,22/08/2026 18:14
 7c4e0455-011e-498f-876d-b6d04d2b9fd6,kerr.organic,available,,,high,low,4,,,,25/09/2026 19:26
@@ -735,10 +809,12 @@ bddc8d69-32f2-4658-bf46-0c063c042232,elmira.organic,available,17.99,85.99,medium
 52da844a-eed1-4c34-a2a4-ff8548b56296,type.organic,available,19.99,,high,low,4,name.com,,,
 cf2ef390-4e92-4b5a-80b5-edd330618328,collins.organic,available,17.99,85.99,high,low,7,namesilo,,,24/09/2026 16:19
 6639dbbf-7faf-4618-bdfe-86345cb5fcbb,chemistry.organic,resell,,,high,low,9,"DNSPod, Inc.",05/03/2025 14:14,05/03/2029 14:14,28/09/2026 12:10
-4d174651-f88f-4d54-b416-4431e06703d7,goal.organic,available,19.99,,high,low,4,name.com,,,
+4d174651-f88f-4d54-b416-4431e06703d7,goal.organic,available,17,,high,low,4,unstoppable,,,29/09/2026 14:09
 4c181e64-721d-47fc-a345-aef08df61a84,violin.organic,available,17,,high,low,6,unstoppable,,,28/09/2026 09:46
 cd8269e1-a08c-45b2-9daa-8c0dfa61e1eb,crappy.organic,available,19.99,73.99,medium,low,6,name.com,,,13/08/2026 05:12
 ab4260b8-5ad3-41d1-8097-c3c0c96e9f4d,programming.organic,available,17,,high,low,11,unstoppable,,,28/09/2026 12:38
+c41a3827-e03d-4c3d-bc02-aec9e2c8762a,refund.organic,available,17.99,85.99,high,low,6,namesilo,,,29/09/2026 07:57
+73e930c9-27bc-48e5-abea-106ed8ca6edc,output.organic,available,17.99,85.99,high,low,6,namesilo,,,29/09/2026 06:46
 577a570c-67a4-4d60-bf48-f26cdfa499d0,murillo.organic,available,17.99,85.99,high,low,7,namesilo,,,22/09/2026 09:24
 f0cd9929-082a-477f-b684-b2dcf8edfd4b,percy.organic,available,17.99,85.99,high,low,5,namesilo,,,25/09/2026 06:59
 f408508e-222d-40f1-852e-370d98f6ad37,katie.organic,available,17.99,85.99,high,low,5,namesilo,,,25/09/2026 13:27
@@ -747,7 +823,7 @@ f408508e-222d-40f1-852e-370d98f6ad37,katie.organic,available,17.99,85.99,high,lo
 4deece7a-e24e-464a-85a6-2345385bb24c,singer.organic,available,17.99,85.99,high,low,6,namesilo,,,25/09/2026 23:13
 4e5dd8da-8de8-475e-8f31-22f184e10fbe,blankly.organic,available,17.99,85.99,medium,low,7,namesilo,,,14/09/2026 00:13
 d7c06542-7306-4312-9cb3-700c3926abb4,foundling.organic,available,17.99,85.99,medium,low,9,namesilo,,,16/09/2026 13:56
-716e12a3-0a68-4465-999c-33b32d7c9e30,dislike.organic,available,19.99,,high,low,7,name.com,,,
+716e12a3-0a68-4465-999c-33b32d7c9e30,dislike.organic,available,17.99,85.99,high,low,7,namesilo,,,29/09/2026 15:55
 a5f3fb11-a2de-4b70-8981-f8836f1510e4,passenger.organic,available,17.99,85.99,high,low,9,namesilo,,,27/09/2026 04:56
 c179d977-526c-4623-bcd6-72a2a2ee661e,candied.organic,available,19.99,73.99,high,low,7,name.com,,,11/08/2026 16:48
 0af089ac-0180-4674-a132-d7f0c6467a84,neo.organic,available,17.99,85.99,high,medium,3,namesilo,,,03/09/2026 15:19
@@ -756,9 +832,10 @@ c44bfc29-63e4-4d37-9dd7-a9e490ce65fb,checked.organic,available,19.99,73.99,high,
 74674984-5b7e-49fe-80aa-cde27626d17e,unloaded.organic,available,17.99,85.99,medium,low,8,namesilo,,,12/09/2026 15:03
 6f0753d5-4082-4c5a-a374-40e00200af8e,antigenic.organic,available,19.99,73.99,medium,low,9,name.com,,,
 35ad538f-ff0c-4856-9e77-6d49cd14717f,poison.organic,available,,,high,low,6,,,,11/09/2026 18:25
-05d1d608-3990-4a8e-888f-141384e9cb2f,ochs.organic,available,17.99,85.99,medium,low,4,namesilo,,,17/09/2026 09:36
+05d1d608-3990-4a8e-888f-141384e9cb2f,ochs.organic,available,17.99,85.99,high,low,4,namesilo,,,17/09/2026 09:36
 984acbdf-a42b-4cd2-a4c2-352905444839,unlike.organic,available,17.99,85.99,high,low,6,namesilo,,,28/09/2026 09:47
 220564ee-2046-4c3e-821b-94363431751f,indie.organic,available,19.99,73.99,high,medium,5,name.com,,,22/08/2026 03:00
+91e7be7d-065d-40d0-b956-62cb6d83fca0,reviewed.organic,available,17.99,85.99,medium,low,8,namesilo,,,29/09/2026 05:52
 2f25ed39-75db-4426-a98e-2cc6ebb32138,athena.organic,available,,,high,medium,6,,,,20/09/2026 20:35
 080750e1-0013-4529-99ba-b970c6b88f0f,theater.organic,available,17,85.99,high,low,7,unstoppable,,,28/09/2026 03:50
 988cb5d0-09f7-48cd-b222-6a208fbc34c4,mothafucka.organic,available,19.99,,medium,low,10,name.com,,,
@@ -768,10 +845,11 @@ c44bfc29-63e4-4d37-9dd7-a9e490ce65fb,checked.organic,available,19.99,73.99,high,
 b4f3ad25-0413-4eea-abe1-a7fe77c90eab,dolores.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 21:59
 1e261bcb-d462-4181-9477-e6048bb65263,federated.organic,available,19.99,73.99,high,low,9,name.com,,,18/08/2026 00:38
 a039892a-478c-4665-b3c6-1a2c4fdc7162,pipeline.organic,available,17.99,85.99,high,low,8,namesilo,,,29/09/2026 01:07
-563471a3-a901-4374-b4ee-c0d7294d9671,twit.organic,available,17.99,85.99,medium,low,4,namesilo,,,11/09/2026 09:11
+563471a3-a901-4374-b4ee-c0d7294d9671,twit.organic,available,17.99,85.99,high,low,4,namesilo,,,11/09/2026 09:11
 f1b3a99e-89a4-4de5-85e1-60a3e538b36c,duplicity.organic,available,19.99,73.99,medium,low,9,name.com,,,14/08/2026 16:52
 91695c0b-45ba-4eb5-b3cc-1cfad633e36e,waterfowl.organic,available,17.99,85.99,high,low,9,namesilo,,,19/09/2026 17:39
-c871ed82-d5a3-4af8-805b-ca522993904f,wedding.organic,available,19.99,,high,low,7,name.com,,,
+229fee39-05eb-4c36-8725-0702de83fcfc,ppg.organic,available,10.81,68.49,high,low,3,porkbun,,,29/09/2026 23:32
+c871ed82-d5a3-4af8-805b-ca522993904f,wedding.organic,available,17.99,85.99,high,low,7,namesilo,,,29/09/2026 23:26
 40980a38-cdb1-4566-a7b1-f90457a5c7bf,atenolol.organic,available,,,medium,low,8,,,,20/09/2026 20:09
 417612e9-55fc-4a83-8eff-7b7db1b694e2,ictic.organic,available,19.99,73.99,low,low,5,name.com,,,21/08/2026 17:53
 a45fbed1-84a1-4cbc-9fb4-f3004f96a582,volleyball.organic,available,19.99,,high,low,10,name.com,,,
@@ -781,20 +859,22 @@ eb2b312c-d7ea-4968-a5db-641fcb59657e,furry.organic,available,19.99,73.99,high,me
 feee9877-5ffa-4b9b-9d6c-263664231481,conserved.organic,available,19.99,73.99,high,low,9,name.com,,,12/08/2026 22:38
 bc4e1e05-2d9b-42cc-b692-6b644383a5d7,exogenous.organic,available,19.99,73.99,medium,low,9,name.com,,,17/08/2026 17:33
 0a51d3a5-409e-49de-b02f-8788189987fa,scrabble.organic,available,17.99,85.99,high,low,8,namesilo,,,24/09/2026 23:30
+387d902c-1361-4c09-ba09-15d9d5526abe,vending.organic,available,17,,high,low,7,unstoppable,,,29/09/2026 07:51
 c8815ecc-a37e-4ee7-b060-ef700f4930c9,amaze.organic,available,17.99,85.99,high,low,5,namesilo,,,21/09/2026 17:36
 605314f4-532d-4c17-8a53-f91eeccf0615,brains.organic,available,17.99,85.99,high,low,6,namesilo,,,25/09/2026 18:40
+7cf39976-7313-4ea6-9aae-a95f48b0ff21,phenomena.organic,available,17.99,85.99,high,low,9,namesilo,,,29/09/2026 22:50
 7d9efcfc-49dc-4142-8f0e-539bae208041,hush.organic,available,,,high,low,4,,,,09/09/2026 08:50
 134861dc-2575-49b0-b332-f920ccc046fe,algren.organic,available,17.99,85.99,medium,low,6,namesilo,,,18/09/2026 07:18
 c59af11a-472d-461d-a755-d9eccec95b3a,hips.organic,available,17.99,85.99,medium,low,4,namesilo,,,28/09/2026 22:48
 a75f8c8c-c0f2-43ab-a375-42c984709f22,whacky.organic,available,19.99,73.99,medium,low,6,name.com,,,06/08/2026 21:32
-ef41d596-cc11-4b50-90ac-88fe79a52143,boned.organic,available,19.99,73.99,medium,low,5,name.com,,,10/08/2026 18:34
+ef41d596-cc11-4b50-90ac-88fe79a52143,boned.organic,available,19.99,73.99,high,low,5,name.com,,,10/08/2026 18:34
 dcfe5054-775e-4152-ac56-21f80bcc4980,treble.organic,available,19.99,73.99,high,low,6,name.com,,,14/08/2026 16:41
 2abb6da4-23c7-4673-ab0a-454cc310a586,campground.organic,available,17.99,85.99,high,low,10,namesilo,,,24/09/2026 11:56
 b3919fb1-b3d0-4b71-ba38-9ae5eb523285,ninepenny.organic,available,17.99,85.99,low,low,9,namesilo,,,03/09/2026 17:37
 b25e317f-0fbd-4cb6-8dff-0a6bc298a107,unfirm.organic,available,17.99,85.99,low,low,6,namesilo,,,12/09/2026 10:19
 8f02ab1e-e68d-40a0-86f3-101ed85501ee,gnarly.organic,available,19.99,73.99,medium,low,6,name.com,,,20/08/2026 15:38
 ea9e2167-cd0f-42c3-8e9f-56fb5e322d13,dickhead.organic,available,19.99,73.99,medium,low,8,name.com,,,08/08/2026 23:34
-09fb45c1-9c2e-451c-87b1-cf1157c6f788,abutment.organic,available,,,medium,low,8,,,,16/09/2026 19:33
+09fb45c1-9c2e-451c-87b1-cf1157c6f788,abutment.organic,available,,,high,low,8,,,,16/09/2026 19:33
 7e2ab37a-ce2c-4fa1-b95a-acccacb24c38,balderdash.organic,available,,,medium,low,10,,,,21/09/2026 21:39
 4934503a-b4f8-429a-bf65-90137785d3cd,heaps.organic,available,17.99,85.99,high,low,5,namesilo,,,14/09/2026 23:17
 cc15026f-5bff-4fa1-8d15-8ac7e0324424,dedicate.organic,available,19.99,,high,low,8,name.com,,,
@@ -805,23 +885,27 @@ d4a5a2ed-bd3e-43be-9ed6-c8b111f8fd85,amenity.organic,available,,,high,low,7,,,,1
 6d8307b7-1dfc-43fb-be23-6180e342f33d,precursors.organic,available,17.99,85.99,medium,low,10,namesilo,,,21/09/2026 00:35
 30405b9d-5610-4b6f-9c61-81f25dd975d0,literate.organic,available,19.99,73.99,high,low,8,name.com,,,24/08/2026 07:26
 8a4fdaaf-58b8-4500-8bb0-cb5826acbda3,goodman.organic,available,17.99,85.99,high,low,7,namesilo,,,23/09/2026 08:16
-94243c07-28e1-416e-8ae7-3500e62f5fdb,granddad.organic,available,19.99,,high,low,8,name.com,,,
+94243c07-28e1-416e-8ae7-3500e62f5fdb,granddad.organic,available,17,,high,low,8,unstoppable,,,29/09/2026 21:09
 609d7f84-a0ce-49ab-92e0-b0afc54a616c,slavelike.organic,available,17.99,85.99,medium,low,9,namesilo,,,10/09/2026 10:32
 6e1910fe-ba9a-4f7a-80bf-c1e782f3822e,embodied.organic,available,19.99,73.99,high,low,8,name.com,,,16/08/2026 09:35
 18d09b19-c8e2-4100-9b3f-23b36e7738fc,forepart.organic,available,19.99,73.99,medium,low,8,name.com,,,18/08/2026 16:13
-1325edcb-aaf6-4a82-a98d-3963fa67ed34,disgust.organic,available,19.99,,high,low,7,name.com,,,
+1325edcb-aaf6-4a82-a98d-3963fa67ed34,disgust.organic,available,17.99,85.99,high,low,7,namesilo,,,29/09/2026 15:47
 6401c372-b440-411d-92e6-b4318bd8f4a2,bluff.organic,available,19.99,73.99,high,low,5,name.com,,,10/08/2026 16:13
 14d97d3d-6bb4-4ae2-a612-cde6ba11e699,checkers.organic,available,17.99,85.99,high,low,8,namesilo,,,24/09/2026 13:59
-4a8adc21-2aea-4292-b7ea-e50aeda319ce,sail.organic,available,19.99,,high,low,4,name.com,,,
+4a8adc21-2aea-4292-b7ea-e50aeda319ce,sail.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 12:14
 73617f74-038c-4b0d-babf-159ab45255da,erratum.organic,available,19.99,73.99,medium,low,7,name.com,,,24/08/2026 07:21
 3d68a5e4-b135-41bd-b63d-1d884f74c1a2,bit.organic,resell,,,high,medium,3,Dynadot Inc,05/06/2026 17:00,05/06/2027 17:00,29/09/2026 02:55
-f159e799-21bd-478d-9031-0d4310d20a43,arpent.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 08:38
+f159e799-21bd-478d-9031-0d4310d20a43,arpent.organic,available,17.99,85.99,high,low,6,namesilo,,,20/09/2026 08:38
 62fc192a-0c76-42a1-90b1-2244ee86b623,unlimited.organic,available,17.99,85.99,high,low,9,namesilo,,,25/09/2026 09:27
-e9436934-8971-49f1-b4ef-9e1b3d72b61b,conan.organic,available,10.81,68.49,medium,low,5,porkbun,,,28/09/2026 07:59
+e9436934-8971-49f1-b4ef-9e1b3d72b61b,conan.organic,available,10.81,68.49,high,low,5,porkbun,,,28/09/2026 07:59
+f4995d39-0814-410d-9b2b-487d87f0e109,sentencing.organic,available,17.99,85.99,high,low,10,namesilo,,,29/09/2026 23:41
+eb70573b-ac78-4b50-a31c-f39358b69251,warsaw.organic,available,17.99,85.99,high,low,6,namesilo,,,29/09/2026 06:15
 7cb3f9e5-9a38-49a5-b5df-f955c6bffb1e,marriage.organic,available,19.99,,high,low,8,name.com,,,
 6dd2e557-570a-4d4f-9317-e592cedfa45c,storyteller.organic,available,19.99,,high,low,11,name.com,,,
 15859dbc-0811-43cf-adbd-db73f005cdcd,efferent.organic,available,19.99,73.99,medium,low,8,name.com,,,15/08/2026 14:22
 5aad7fb9-6f7b-48aa-a234-dfb77c43c107,sooty.organic,available,19.99,73.99,medium,low,5,name.com,,,12/08/2026 13:47
+2896df74-e3d6-4a07-9067-02a4906ddf20,suction.organic,available,17,,high,low,7,unstoppable,,,29/09/2026 14:01
+19fe02c4-ea9b-447c-b773-9726559e2572,alston.organic,available,17,,high,low,6,unstoppable,,,29/09/2026 15:32
 f98f6977-186f-4910-8a9a-94ccef2f9e64,furthermore.organic,available,17.99,85.99,high,low,11,namesilo,,,17/09/2026 08:41
 ea7168bc-ccad-4069-a530-3cbd03367fa0,cholera.organic,available,17.99,85.99,medium,low,7,namesilo,,,20/09/2026 14:08
 f389ca27-ae74-4851-bd67-c380eb882d27,nolan.organic,available,17.99,85.99,high,low,5,namesilo,,,25/09/2026 15:37
@@ -831,18 +915,21 @@ f0dad4b0-c8ed-4580-a6bf-e5a4381dbadd,gun.organic,available,17,,high,low,3,unstop
 4548b76e-f0dc-4980-94a5-2078c541d6d7,feeder.organic,available,19.99,73.99,high,low,6,name.com,,,12/08/2026 21:09
 68e2dc2d-eeba-471b-bbfe-b2ef899fe3bc,hangar.organic,available,17.99,85.99,high,low,6,namesilo,,,17/09/2026 23:05
 5459040b-107f-41e1-a057-c5296749183c,aire.organic,available,17.99,85.99,high,low,4,namesilo,,,17/09/2026 23:06
-e755f526-1db1-458e-a24b-fd7570e2f743,hate.organic,available,19.99,,high,low,4,name.com,,,
+e755f526-1db1-458e-a24b-fd7570e2f743,hate.organic,available,66.2,66.2,high,low,4,cloudflare,,,29/09/2026 22:17
 83edd1e4-2499-4220-82d1-4aa70beee159,balladeer.organic,available,17.99,85.99,medium,low,9,namesilo,,,21/09/2026 22:45
 52c4a6cc-eb07-4c22-b2f3-f85e28c042da,navel.organic,available,17.99,85.99,high,low,5,namesilo,,,23/09/2026 06:35
 39418ab8-edd9-483d-b8a7-544c0b5bae93,albescent.organic,available,19.99,73.99,medium,low,9,name.com,,,
-21de039e-ea46-48ac-9728-af4a26d051ad,aflame.organic,available,19.99,73.99,medium,low,6,name.com,,,
+21de039e-ea46-48ac-9728-af4a26d051ad,aflame.organic,available,19.99,73.99,high,low,6,name.com,,,
 d2343443-e505-42a0-be64-03f17184110c,directing.organic,available,17.99,85.99,high,low,9,namesilo,,,24/09/2026 10:51
 06038b31-2735-456c-9008-ad8470d59c09,barley.organic,available,17.99,85.99,high,low,6,namesilo,,,22/09/2026 06:33
+533c7f81-bbbf-40cd-9b82-c7650fb4ae74,jana.organic,available,17.99,85.99,high,low,4,namesilo,,,29/09/2026 15:30
 11f7bc3a-9f00-4f0c-afe3-4a45b7b93104,alecost.organic,available,17.99,85.99,high,low,7,namesilo,,,18/09/2026 04:46
-2f7777c1-f95d-4688-b1d2-52882a1e8f20,treats.organic,available,17.99,85.99,medium,low,6,namesilo,,,28/09/2026 05:00
+9f29691a-6a18-4124-9dac-4d6d7fb0b1b1,sommer.organic,available,66.2,66.2,high,low,6,cloudflare,,,29/09/2026 21:09
+2f7777c1-f95d-4688-b1d2-52882a1e8f20,treats.organic,available,17.99,85.99,high,low,6,namesilo,,,28/09/2026 05:00
 5f23ed82-fca8-4b3f-a895-5b87de49369f,shaun.organic,available,17,,medium,low,5,unstoppable,,,29/09/2026 03:45
 69f27f1c-1cb7-4d70-98ee-1f4f68fb0e17,trail.organic,available,17.99,85.99,high,low,5,namesilo,,,25/09/2026 22:13
 3ebc352f-227b-4747-bf46-2c2da28671d4,unitedly.organic,available,17.99,85.99,medium,low,8,namesilo,,,16/09/2026 10:08
+e87c49eb-6221-43ea-946a-f9c970df21c4,ozone.organic,available,66.2,66.2,high,low,5,cloudflare,,,29/09/2026 07:48
 475617b9-152d-4566-8e55-5f26649632a2,expectant.organic,available,17.99,85.99,high,low,9,namesilo,,,22/09/2026 06:48
 2afbc391-5168-4f75-9c34-1a82fe2462e8,grieving.organic,available,19.99,73.99,medium,low,8,name.com,,,09/08/2026 15:07
 5d160fb4-6a13-4708-a8d5-3ba951e56525,vigilant.organic,available,17.99,85.99,high,low,8,namesilo,,,04/09/2026 16:01
@@ -855,29 +942,36 @@ e6bf95e1-e47a-4227-9dcf-bf6f2e287ce9,bravery.organic,available,17.99,85.99,high,
 ab8a9a77-4220-4b4d-9528-fd0044c1a470,punched.organic,available,17.99,85.99,medium,low,7,namesilo,,,19/09/2026 01:53
 b8488e64-340b-474a-b143-48080ed9d8cd,antiblack.organic,available,19.99,73.99,low,low,9,name.com,,,
 e0b7df0d-afdb-46ab-bf2d-2a7e88cb6503,enlightenment.organic,available,19.99,,high,low,13,name.com,,,
-7ca04933-3abb-425f-acd2-79e4383134d2,gratefully.organic,available,,,medium,low,10,,,,13/09/2026 20:28
+49cb8ede-9170-481f-96d3-49e22660fcd2,cigars.organic,available,17,,medium,low,6,unstoppable,,,29/09/2026 05:22
+7ca04933-3abb-425f-acd2-79e4383134d2,gratefully.organic,available,,,high,low,10,,,,13/09/2026 20:28
 139eff2b-b469-4740-b6cd-defe8b6205c8,arouet.organic,available,17.99,85.99,medium,low,6,namesilo,,,20/09/2026 08:30
 4f6ba8cc-55d3-44dd-a64b-88909174249a,parker.organic,available,,,high,low,6,,,,23/09/2026 20:21
 d7b817c4-891c-48ba-9930-52afc53d7c30,heroic.organic,available,17.99,85.99,high,low,6,namesilo,,,24/09/2026 14:31
-37cbc2d2-c9bd-4c89-849e-c54758c4a0a0,attended.organic,available,17.99,85.99,medium,low,8,namesilo,,,22/09/2026 11:17
-d70c2802-4262-4752-9fc3-c969a60dc9d7,bellyful.organic,available,17.99,85.99,medium,low,8,namesilo,,,23/09/2026 06:51
+37cbc2d2-c9bd-4c89-849e-c54758c4a0a0,attended.organic,available,17.99,85.99,high,low,8,namesilo,,,22/09/2026 11:17
+33d4debd-e4ac-4441-ad08-5ac387f0198e,haze.organic,available,17.99,85.99,high,low,4,namesilo,,,30/09/2026 01:51
+d70c2802-4262-4752-9fc3-c969a60dc9d7,bellyful.organic,available,17.99,85.99,high,low,8,namesilo,,,23/09/2026 06:51
 e493faad-57eb-454b-a087-aede0ba9116b,capitate.organic,available,19.99,73.99,medium,low,8,name.com,,,11/08/2026 17:57
 5c370f4d-86ce-46d6-9084-506680cde533,afl.organic,available,17.99,85.99,high,low,3,namesilo,,,17/09/2026 15:04
 7019bbb1-5ef9-4296-a6a1-836c4087f9da,serene.organic,available,19.99,73.99,high,low,6,name.com,,,11/08/2026 14:51
-9324d687-0dd4-40ab-a79e-02f13439c35c,hindsight.organic,available,19.99,,high,low,9,name.com,,,
+9324d687-0dd4-40ab-a79e-02f13439c35c,hindsight.organic,available,17.99,85.99,high,low,9,namesilo,,,29/09/2026 22:47
 0dcdc600-48f7-4d5e-b89d-8bc067ed41f9,adar.organic,available,17.99,85.99,medium,low,4,namesilo,,,17/09/2026 06:32
 d071a957-75a5-43d6-8be2-af922d5afbf4,godly.organic,available,19.99,73.99,high,low,5,name.com,,,14/08/2026 13:55
 60e74444-bd25-42ee-8bd1-4075c7fffe1e,coldly.organic,available,66.2,66.2,low,low,6,cloudflare,,,28/09/2026 14:07
 0ea970d0-829f-4369-81a8-d4c0741127a7,ray.organic,available,,,high,low,3,,,,22/09/2026 19:55
+ecaf9163-72cd-4981-8def-1d42ba119d81,schmid.organic,available,17,,high,low,6,unstoppable,,,29/09/2026 15:01
+dcc28351-aebb-42a5-90fd-61b08dd01291,ludwig.organic,available,66.2,66.2,medium,low,6,cloudflare,,,29/09/2026 05:16
 fa14ed90-65f2-480f-83f7-4b1cb0982dc4,emotive.organic,available,19.99,73.99,high,low,7,name.com,,,
 47da3678-8e5b-41b9-a72c-8cdfcb81f7dd,asdic.organic,available,17.99,85.99,medium,low,5,namesilo,,,20/09/2026 13:30
 bff53b59-3257-4330-b706-eedebfe133b7,mad.organic,available,17.99,85.99,high,medium,3,namesilo,,,23/09/2026 02:06
+73134d0c-7972-4a39-ac1c-35257ff34e10,berks.organic,available,17.99,85.99,medium,low,5,namesilo,,,29/09/2026 15:22
 f2c8c9db-4a2d-4b90-bcee-40e7363e9924,ordinary.organic,available,17.99,85.99,high,low,8,namesilo,,,26/09/2026 00:20
 2abe60df-431d-44e9-881a-21f6abd1806f,henrietta.organic,available,17.99,85.99,high,low,9,namesilo,,,25/09/2026 17:42
+5bd0e1b7-b72d-4b4e-a2f9-81440639864b,emmy.organic,available,17,,high,low,4,unstoppable,,,29/09/2026 06:46
 1d96dd3f-d927-49bc-93a2-3813afd7e442,lawson.organic,available,17.99,85.99,high,low,6,namesilo,,,25/09/2026 12:31
 9212ebf9-767b-40b6-8ee3-894f5dd3df11,theodore.organic,available,17,,high,low,8,unstoppable,,,29/09/2026 02:58
 4681783b-177b-442e-b173-fb80156b0c70,atmosphere.organic,available,17.99,85.99,high,low,10,namesilo,,,18/09/2026 16:39
 8910327c-d978-4587-a51f-4dfbaf3dd65b,brenner.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 22:08
+e9953c66-0331-435d-a5b5-1c480c6c4066,reindeer.organic,available,17,,high,low,8,unstoppable,,,29/09/2026 06:16
 4782b8e2-15cc-4da3-80dd-2c5a285db0ac,academy.organic,available,19.99,73.99,high,low,7,name.com,,,16/09/2026 20:24
 ca686266-8964-4e71-af7d-feda797ed8f4,basso.organic,available,17.99,85.99,medium,low,5,namesilo,,,22/09/2026 11:59
 bde1bd85-8cae-4b91-b107-2fcf94e8498a,conceited.organic,available,19.99,73.99,medium,low,9,name.com,,,12/08/2026 19:54
@@ -892,6 +986,7 @@ bde1bd85-8cae-4b91-b107-2fcf94e8498a,conceited.organic,available,19.99,73.99,med
 ca11d0ef-fae5-4f83-bcf9-0f5ba44aa352,demolished.organic,available,19.99,73.99,medium,low,10,name.com,,,14/08/2026 01:21
 83c0ec75-46ac-4bcd-bdd1-5689b0d1bcb8,indiscreet.organic,available,19.99,73.99,medium,low,10,name.com,,,22/08/2026 03:07
 0395bd00-5a85-4650-acb7-b149867b9648,rifles.organic,available,17,,low,low,6,unstoppable,,,28/09/2026 08:46
+3187ee98-a843-45ec-8321-a94fecf46f86,implications.organic,available,17.99,85.99,medium,low,12,namesilo,,,29/09/2026 17:18
 d5931d40-d66f-41cc-b70b-5c78af8e8554,points.organic,available,19.99,,high,low,6,name.com,,,
 fa671ba7-550c-415d-b3f8-5777de57bec1,mentation.organic,available,17.99,85.99,medium,low,9,namesilo,,,11/09/2026 13:33
 3c280b9c-ca3d-417c-a289-033adf07404a,aqueduct.organic,available,17.99,85.99,high,low,8,namesilo,,,19/09/2026 23:10
@@ -900,102 +995,7 @@ b48ab2e4-ae58-4f79-818c-097ce1d3fef4,williams.organic,available,17.99,85.99,high
 0c74fc50-ce1f-42d6-a27e-2b32501ea374,misprint.organic,available,19.99,73.99,medium,low,8,name.com,,,24/08/2026 02:49
 2e154746-e9b3-4d0b-a964-c34d3fa9f8fa,blasphemy.organic,available,17.99,85.99,medium,low,9,namesilo,,,24/09/2026 04:15
 e4e4e4a0-4b01-4b21-8c97-12a8725f7772,buttery.organic,available,17.99,85.99,medium,low,7,namesilo,,,19/09/2026 18:30
-8b1c8ed7-ce4e-4dc5-a921-9639e581e2f8,chromium.organic,available,17.99,85.99,medium,low,8,namesilo,,,20/09/2026 22:39
+8b1c8ed7-ce4e-4dc5-a921-9639e581e2f8,chromium.organic,available,17.99,85.99,high,low,8,namesilo,,,20/09/2026 22:39
 9f856fdf-2acf-4357-8473-0a3ce1ad6b2c,streets.organic,available,19.99,,high,low,7,name.com,,,
 4cc21f61-7df5-4e93-b035-625477969078,deadly.organic,available,17.99,85.99,medium,low,6,namesilo,,,22/09/2026 16:43
 14e11ed2-23d9-4158-829c-ffa36ebf994a,dakota.organic,available,66.2,66.2,high,low,6,cloudflare,,,28/09/2026 13:51
-01d324ce-3ee0-4825-bfc6-10b29fc479e6,clive.organic,available,17.99,85.99,high,low,5,namesilo,,,22/09/2026 07:05
-862d1cf6-1719-47b2-9bbf-4ad6ca52698d,dying.organic,available,17.99,85.99,high,low,5,namesilo,,,24/09/2026 12:37
-f5ff8b5f-dcaa-46e2-b108-9509ba01655c,mystify.organic,available,17.99,85.99,high,low,7,namesilo,,,21/09/2026 17:29
-220260ad-8937-42d6-a3ee-dc34657a812a,org.organic,resell,,,high,medium,3,Porkbun LLC,01/08/2023 04:06,01/08/2027 04:06,26/09/2026 07:56
-c775b415-921b-467e-9639-c54cd69f1453,decayed.organic,available,19.99,73.99,medium,low,7,name.com,,,13/08/2026 20:59
-3f5865cc-5e47-420e-ba8c-30fa42dba99b,eaten.organic,available,19.99,,high,low,5,name.com,,,
-b5952193-03b2-47a3-93ec-46d851c60830,dalmatian.organic,available,19.99,73.99,high,low,9,name.com,,,13/08/2026 16:00
-a3c20cd0-9df6-42b0-9480-03855f845b3c,baronet.organic,available,17.99,85.99,high,low,7,namesilo,,,22/09/2026 07:28
-cfcb4168-d577-4fbb-bed0-a841c2a3a2d9,divided.organic,available,19.99,73.99,medium,low,7,name.com,,,14/08/2026 13:42
-9864ee3e-0731-4dbc-a83c-8d6e71d1741f,martini.organic,available,17.99,85.99,high,low,7,namesilo,,,28/09/2026 14:50
-fb23309f-a8a3-4b5d-9cce-543d1806f605,sequence.organic,available,17.99,85.99,high,low,8,namesilo,,,24/09/2026 14:56
-51543ed0-666c-4f3b-b6e5-865d7cbb67e4,sonant.organic,available,17.99,85.99,medium,low,6,namesilo,,,10/09/2026 14:08
-ce9ddea1-9109-4974-a24f-0d31d64ed801,ashir.organic,available,17.99,85.99,medium,low,5,namesilo,,,20/09/2026 13:53
-23146134-8736-494d-bd00-72d45297a08a,showers.organic,available,17.99,85.99,medium,low,7,namesilo,,,28/09/2026 23:39
-8687e70c-4bb7-46f5-8e67-a315174bd229,faintly.organic,available,17.99,85.99,medium,low,7,namesilo,,,14/09/2026 17:33
-8a32b2cd-f81b-4b12-9855-e72e4b3e7ed9,murray.organic,available,17.99,85.99,high,low,6,namesilo,,,25/09/2026 22:54
-564b9bf2-abc8-40a8-96bb-006d18cd6fdc,contrasty.organic,available,19.99,73.99,medium,low,9,name.com,,,12/08/2026 23:32
-d553f730-5ce9-49ad-a4e9-fea2dbe93892,adaptation.organic,available,17.99,85.99,high,low,10,namesilo,,,17/09/2026 06:27
-931ca98d-87fc-4d3c-899a-58db434e9f4d,uracil.organic,available,17.99,85.99,medium,low,6,namesilo,,,11/09/2026 22:36
-d0af3067-1545-4659-8790-fbc9b365bd19,parallel.organic,available,19.99,73.99,high,low,8,name.com,,,
-293de64d-6f1e-4c3c-bc13-fb71e7838e89,somme.organic,available,17.99,85.99,medium,low,5,namesilo,,,22/09/2026 16:09
-dcf8e58c-87b8-4704-893f-5c74053d1da3,sperry.organic,available,17.99,85.99,medium,low,6,namesilo,,,29/09/2026 00:47
-f3861fa6-879d-40bf-bcb9-9f4b5e4caa95,plentiful.organic,available,17.99,85.99,high,low,9,namesilo,,,27/09/2026 04:16
-7aaf73c5-6408-42f7-9f09-01121026035c,mutagenic.organic,available,17.99,85.99,medium,low,9,namesilo,,,03/09/2026 11:37
-41210ac1-1585-44d8-9db9-237293cfdaab,wakefield.organic,available,17.99,85.99,high,low,9,namesilo,,,25/09/2026 12:26
-18c453a8-2cce-48f8-a0e4-bda6d2f0b5f4,unbeatable.organic,available,17.99,85.99,high,low,10,namesilo,,,25/09/2026 11:12
-18ce2528-1d2c-4664-a214-da5735db71a8,hyoid.organic,available,19.99,73.99,medium,low,5,name.com,,,21/08/2026 16:35
-6ac8d6d1-ee99-4f19-a4bd-bf852683d267,agelong.organic,available,19.99,73.99,medium,low,7,name.com,,,
-93527c4e-42c5-40aa-9316-768b36a93c97,screening.organic,available,19.99,,high,low,9,name.com,,,
-40d74bcf-88ab-41e3-bca5-aa446eccffe6,spiceberry.organic,available,17.99,85.99,medium,low,10,namesilo,,,20/09/2026 03:12
-07876d5f-ddca-4efe-9f7d-dca2286f9562,darren.organic,available,17,,high,low,6,unstoppable,,,28/09/2026 11:25
-aaf922fe-c410-4ab0-8f37-c506f6a0ea8c,attendant.organic,available,17.99,85.99,high,low,9,namesilo,,,21/09/2026 15:40
-e4deb12b-5539-4df9-9d26-ad72eb75c484,unhatched.organic,available,17.99,85.99,medium,low,9,namesilo,,,12/09/2026 12:05
-d00f6563-b39b-4fa3-96c7-e1c93de20f95,chilly.organic,available,19.99,73.99,high,low,6,name.com,,,12/08/2026 05:30
-608856f3-9f8e-41ce-86b8-46bfe03a3035,kodiak.organic,available,17.99,85.99,high,low,6,namesilo,,,18/09/2026 02:05
-156a2bb3-d750-4626-a04d-f7409e8f8b3e,campana.organic,available,17.99,85.99,high,low,7,namesilo,,,23/09/2026 05:51
-e7228c72-0b4f-4db0-929e-4d3236eed30d,nonpolar.organic,available,,,medium,low,8,,,,03/09/2026 20:17
-9cdab106-dd2e-4396-a174-3fb1434ff1a8,dentist.organic,available,19.99,,high,low,7,name.com,,,
-ade6dbb9-5bf7-456e-8444-497bc5020cf3,goony.organic,available,17.99,85.99,medium,low,5,namesilo,,,23/09/2026 23:48
-b90911f1-af83-4482-bf65-197d07e0d530,dan.organic,available,17.99,85.99,high,medium,3,namesilo,,,25/09/2026 11:18
-9501e3d3-1fa7-405f-a25c-99610ad39f92,prehistoric.organic,available,66.2,66.2,medium,low,11,cloudflare,,,29/09/2026 03:08
-a952a964-8b32-4049-948f-9024653bc0cb,quintuple.organic,available,19.99,73.99,medium,low,9,name.com,,,18/08/2026 05:54
-5c99d1ab-ab0a-4e08-ad6e-166989995bca,belief.organic,available,17.99,85.99,high,low,6,namesilo,,,23/09/2026 05:12
-b65512eb-9f1e-4da3-b275-a0f40c39d582,athar.organic,available,,,high,low,5,,,,20/09/2026 19:25
-0335df20-f36e-4708-b48e-b379ff3f48dc,springy.organic,available,19.99,73.99,high,low,7,name.com,,,10/08/2026 21:49
-836b70c2-87bd-471c-bfb4-95c847366d6c,symmetric.organic,available,17.99,85.99,high,low,9,namesilo,,,11/09/2026 06:03
-237ff249-691f-49c0-8d71-5811cd946ccf,prettily.organic,available,,,medium,low,8,,,,15/09/2026 21:22
-7239748f-2091-4085-bff1-6cf779f43335,hal.organic,available,17.99,85.99,high,low,3,namesilo,,,25/09/2026 12:39
-5d74fc88-d22c-4185-a206-e4560d0920ee,backboard.organic,available,17.99,85.99,high,low,9,namesilo,,,21/09/2026 15:09
-a9b83c4d-87a4-4ad2-a23e-46fa5de49c16,atriplex.organic,available,19.99,73.99,high,low,8,name.com,,,21/09/2026 00:45
-9a4c6088-77e8-4112-b31a-c9a916eddba7,bartholdi.organic,available,17.99,85.99,medium,low,9,namesilo,,,22/09/2026 09:11
-3b3c2853-99c2-46a0-824b-03df950cf79d,akvavit.organic,available,17.99,85.99,medium,low,7,namesilo,,,18/09/2026 00:17
-8b4a16e7-146f-44cf-90f7-24105bf199cb,antonym.organic,available,17.99,85.99,medium,low,7,namesilo,,,04/09/2026 16:48
-355a1b61-9c5f-4874-9611-8af56f427d34,flooring.organic,available,19.99,,high,low,8,name.com,,,
-7c156b5f-d7f4-41d0-9d50-82f111546e31,biaxal.organic,available,19.99,73.99,medium,low,6,name.com,,,09/08/2026 18:46
-10570de4-f4e5-4cd5-bf3f-e91e5236418d,unpleasant.organic,available,17.99,85.99,medium,low,10,namesilo,,,12/09/2026 16:58
-79ea169d-edc3-417c-abd0-aa94f017e9f9,kenyon.organic,available,17,,medium,low,6,unstoppable,,,28/09/2026 04:16
-b8042ad9-7acd-4b50-9d5c-bfc0a7ac3b7d,pascal.organic,available,17.99,85.99,high,low,6,namesilo,,,24/09/2026 03:44
-848802d5-b0ef-4b5b-ae64-f2e26558bcf0,bribable.organic,available,19.99,73.99,medium,low,8,name.com,,,11/08/2026 03:42
-384a24f0-147f-4611-b6fd-b2c16c69011c,argon.organic,available,17.99,85.99,high,low,5,namesilo,,,19/09/2026 23:19
-0fa8729b-f88e-4670-8ca8-a4ff04ba5055,berkelium.organic,available,17.99,85.99,medium,low,9,namesilo,,,21/09/2026 00:14
-ee3e6bd6-fd7e-4aa2-b614-1fb0fdab83f5,grasp.organic,available,17.99,85.99,high,low,5,namesilo,,,19/09/2026 22:13
-015b2410-6a73-4eb7-8bce-ab0c9df0f489,ghastly.organic,available,19.99,73.99,medium,low,7,name.com,,,12/08/2026 02:39
-4c732f8c-f060-4a5d-ac4a-6553758c3d7d,timber.organic,available,17,,high,low,6,unstoppable,,,28/09/2026 19:46
-24ee6e8b-8f00-4bcc-9c1e-128ba40c3f18,ages.organic,available,19.99,,medium,low,4,name.com,,,
-055fd167-3289-439d-a795-9ccb872afbc8,budgets.organic,available,17,73.99,medium,low,7,unstoppable,,,28/09/2026 08:37
-6c944530-f68b-4f89-8558-586a2e75d032,pairs.organic,available,17.99,85.99,medium,low,5,namesilo,,,16/09/2026 14:58
-5c7be8b4-5764-499f-aa0f-f1fb1aaffb85,hypaethral.organic,available,19.99,73.99,medium,low,10,name.com,,,21/08/2026 16:39
-089cf126-df5b-45e3-831b-f6ff8ac80b29,cain.organic,available,17.99,85.99,high,low,4,namesilo,,,28/09/2026 09:13
-d33ea516-4c5c-45f0-8082-493d9aa96624,sauna.organic,available,19.99,,high,low,5,name.com,,,
-d6e66038-6a92-4d5f-896c-f0b0bb858568,kampala.organic,available,17.99,85.99,high,low,7,namesilo,,,24/09/2026 12:28
-647e0dd5-8d68-4baa-aea1-da082f711ca8,saying.organic,available,17.99,85.99,high,low,6,namesilo,,,25/09/2026 09:03
-78a25408-7432-4433-8c72-18ca5e60f0a5,zoe.organic,available,66.2,66.2,high,low,3,cloudflare,,,27/09/2026 18:59
-38208d26-5e7e-43e6-998b-bb2e60aaf2e2,validating.organic,available,19.99,73.99,high,low,10,name.com,,,12/08/2026 20:53
-35cc03bf-1d3f-47fe-8d5e-cab6439cb3df,raton.organic,available,66.2,66.2,medium,low,5,cloudflare,,,28/09/2026 22:49
-dfc16aaf-5470-4c38-b2ce-68c26a103eca,pegs.organic,available,19.99,73.99,medium,low,4,name.com,,,20/09/2026 09:49
-946f1dd0-caa7-4264-ae63-424fc75f31cc,courtesy.organic,available,,,high,low,8,,,,24/09/2026 18:48
-35721e38-0adf-4bc2-a6a5-9ddbc2d2567c,backbone.organic,available,17.99,85.99,high,low,9,namesilo,,,21/09/2026 15:14
-e67b10fd-840e-49b8-8545-6beadf391cb7,parked.organic,available,17.99,85.99,high,low,6,namesilo,,,08/09/2026 01:36
-f2c4fee0-b88b-4a9c-83c4-90f5f6da6359,sideline.organic,available,17.99,85.99,high,low,8,namesilo,,,21/09/2026 09:42
-064a055a-7872-4f39-9289-f89071665fb5,autotroph.organic,available,17.99,85.99,medium,low,9,namesilo,,,21/09/2026 07:36
-89257659-49e6-491d-a6dd-8fafa78cec90,wyrd.organic,available,17.99,85.99,medium,low,4,namesilo,,,13/09/2026 10:11
-090f1e96-78c2-4dd1-8f57-6f71f6b29457,prisms.organic,available,17.99,85.99,medium,low,6,namesilo,,,21/09/2026 00:27
-e8397f7c-0e1c-487a-b751-1f042996ec72,detailed.organic,available,17.99,85.99,high,low,8,namesilo,,,24/09/2026 07:09
-9899c044-1cd3-4dbd-9238-58390fe98646,affront.organic,available,17.99,85.99,medium,low,7,namesilo,,,17/09/2026 14:54
-d0c1f89b-7f8b-4dcd-b1c6-7402a944408d,hop.organic,available,17.99,85.99,high,low,3,namesilo,,,25/09/2026 07:30
-cba08610-fe97-4c1a-aa61-fb739cde6e6d,announcer.organic,available,17.99,85.99,high,low,9,namesilo,,,19/09/2026 10:49
-3604f18d-c376-41e3-a51a-8aa3939ed58f,attainable.organic,available,17.99,85.99,high,low,10,namesilo,,,19/09/2026 04:15
-c19377d6-2eba-4bf3-9f2b-108cce414ba9,openings.organic,available,19.99,,medium,low,8,name.com,,,20/09/2026 17:50
-79fa62c6-8978-47b7-91c1-55ca6018942e,eyetooth.organic,available,19.99,73.99,medium,low,8,name.com,,,11/08/2026 16:59
-f5483a99-5541-4c2f-97b5-49d5a716050c,aerobics.organic,available,17.99,85.99,high,low,8,namesilo,,,17/09/2026 12:56
-a5ae887f-dd23-49dd-90d5-57c00aa53610,numbers.organic,available,17.99,85.99,high,low,7,namesilo,,,29/09/2026 03:35
-d090c92d-f48c-417e-8b19-6c4146889a68,amethyst.organic,available,17.99,85.99,high,low,8,namesilo,,,22/09/2026 04:15
-78310748-6065-42ea-a1b9-4bfe2c3f186f,dispute.organic,available,17,,medium,low,7,unstoppable,,,28/09/2026 13:42
-2b2e92cf-4e10-4c9e-b5eb-2a56b34e73b6,adequacy.organic,available,17.99,85.99,high,low,8,namesilo,,,17/09/2026 07:43
